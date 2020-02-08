@@ -126,27 +126,27 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 论民主 || On Democracy || (美) [https://zh.wikipedia.org/wiki/%E7%BE%85%E4%BC%AF%C2%B7%E9%81%93%E7%88%BE 罗伯特·道尔] || 简体PDF(扫描版) || 2014-06-22 || [https://docs.google.com/document/d/1XObNi7yZ86vXO193IdGmkBgCIQwHNFamTK6FUbJYZZ4/ 简介]
+| 论民主 || On Democracy || (美) [https://zh.wikipedia.org/wiki/%E7%BE%85%E4%BC%AF%C2%B7%E9%81%93%E7%88%BE 罗伯特·道尔] || 简体PDF(第1版 扫描版)<br>英文PDF(第1版 扫描版) || 2014-06-22<br>2020-01-25 || [https://docs.google.com/document/d/1XObNi7yZ86vXO193IdGmkBgCIQwHNFamTK6FUbJYZZ4/ 简介]
 |-
-| 第三波<br>——20世纪后期民主化浪潮 || The Third Wave<br>——Democratization in the Late Twentieth Century || (美) [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 塞缪尔·亨廷顿] || 简体PDF(修订版)<br>简体PDF<br>简体EPUB<br>简体MOBI || 2018-09-06<br>2013-05-30<br>2019-01-04<br>2015-11-14 || [https://docs.google.com/document/d/1RyDwqzxQJMz1j6sCVF9_egnkZIKjnCkNuA_AvgbeTJE/ 简介]
+| 第三波<br>——20世纪后期民主化浪潮 || The Third Wave<br>——Democratization in the Late Twentieth Century || (美) [https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7P%C2%B7%E4%BA%A8%E5%BB%B7%E9%A0%93 塞缪尔·亨廷顿] || 简体PDF(修订版)<br>简体PDF<br>简体EPUB<br>简体MOBI<br>英文EPUB || 2018-09-06<br>2013-05-30<br>2019-01-04<br>2015-11-14<br>2020-01-16 || [https://docs.google.com/document/d/1RyDwqzxQJMz1j6sCVF9_egnkZIKjnCkNuA_AvgbeTJE/ 简介]
 |-
-| 民主 || Democracy || (美) [https://en.wikipedia.org/wiki/Charles_Tilly 查尔斯·蒂利] || 简体PDF(扫描版) || 2015-02-09 || [https://docs.google.com/document/d/1VHHYAeS2s-X8ZCYH8OXv4of3DmpnRLBL7bl9Lj1D9Ns/ 简介]
+| 民主 || Democracy || (美) [https://en.wikipedia.org/wiki/Charles_Tilly 查尔斯·蒂利] || 简体PDF(扫描版)<br>英文PDF || 2015-02-09<br>2020-01-25 || [https://docs.google.com/document/d/1VHHYAeS2s-X8ZCYH8OXv4of3DmpnRLBL7bl9Lj1D9Ns/ 简介]
 |-
 | 牛津通识读本：民主 || Democracy || (英) [https://en.wikipedia.org/wiki/Bernard_Crick 伯纳德·克里克] || 英文PDF || 2015-12-11 || [https://docs.google.com/document/d/1aOzzp1_w4E2H2Y7l5SMJz1Jo1uNV3ejU-yJ2DqhyVQg/ 简介]
 |-
-| 代议制政府 || Considerations on Representative Government || (英) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%C2%B7%E5%AF%86%E5%B0%94 约翰·密尔] || 简体PDF<br>简体PDF(扫描版) || 2013-08-22<br>2019-10-26 || [https://docs.google.com/document/d/11KFvZs1DHqiPdDvG3V8AjvZKu0HoUR2oRD-35AUwF_4/ 简介]
+| 代议制政府 || Considerations on Representative Government || (英) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%C2%B7%E5%AF%86%E5%B0%94 约翰·密尔] || 简体PDF<br>简体PDF(扫描版)<br>英文PDF || 2013-08-22<br>2019-10-26<br>2020-01-25 || [https://docs.google.com/document/d/11KFvZs1DHqiPdDvG3V8AjvZKu0HoUR2oRD-35AUwF_4/ 简介]
 |-
 | 社会契约论<br>''其它中文名：''<br>民约论 || The Social Contract || (法) [https://zh.wikipedia.org/wiki/%E8%AE%A9-%E9%9B%85%E5%85%8B%C2%B7%E5%8D%A2%E6%A2%AD 让-雅克·卢梭] || 简体PDF<br>简体PDF(扫描版)<br>简体EPUB<br>简体MOBI || 2014-01-09<br>2019-10-27<br>2017-05-06<br>2015-05-11 || [https://docs.google.com/document/d/1Sao10yvWHwmjgEpjlLf8fTM3HMlh6Xil00TMmeV5Otw/ 简介]
 |-
-| 论法的精神<br>''其它中文名：''<br>法意 || The Spirit of the Laws || (法) [https://zh.wikipedia.org/wiki/%E5%AD%9F%E5%BE%B7%E6%96%AF%E9%B8%A0 孟德斯鸠] || 简体PDF<br>简体PDF(大字版)<br>简体PDF(扫描版)<br>简体EPUB<br>简体MOBI || 2014-01-09<br>2017-03-24<br>2018-12-03<br>2015-05-11<br>2015-05-11 || [https://docs.google.com/document/d/1X9sXgpIqLeJ75JiQTurt6E2bhd4JbwWc2r4nP3c9rxA/ 简介]
+| 论法的精神<br>''其它中文名：''<br>法意 || The Spirit of the Laws || (法) [https://zh.wikipedia.org/wiki/%E5%AD%9F%E5%BE%B7%E6%96%AF%E9%B8%A0 孟德斯鸠] || 简体PDF<br>简体PDF(大字版)<br>简体PDF(共2册 扫描版)<br>简体EPUB<br>简体MOBI<br>英文PDF || 2014-01-09<br>2017-03-24<br>2018-12-03<br>2015-05-11<br>2015-05-11<br>2020-01-25 || [https://docs.google.com/document/d/1X9sXgpIqLeJ75JiQTurt6E2bhd4JbwWc2r4nP3c9rxA/ 简介]
 |-
-| 控制国家<br>——西方宪政的历史 || Controlling the State<br>——Constitutionalism from Ancient Athens to Today || (美) 斯科特·戈登 || 简体PDF(扫描版) || 2017-08-13 || [https://docs.google.com/document/d/1PxJayhqBxwEJJCx3n3W9LpXNU7ARiQDY86DytmbVwhc/ 简介]
+| 联邦党人文集<br>''其它中文名：''<br>联邦主义者文集<br>美国宪法原理 || The Federalist Papers || (美) [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%C2%B7%E6%B1%89%E5%AF%86%E5%B0%94%E9%A1%BF 亚历山大·汉密尔顿]<br>(美) [https://zh.wikipedia.org/wiki/%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E9%BA%A6%E8%BF%AA%E9%80%8A 詹姆斯·麦迪逊]<br>(美) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%9D%B0%E4%BC%8A 约翰·杰伊] || 简体PDF(扫描版)<br>简体EPUB<br>简体MOBI<br>英文PDF || 2013-11-27<br>2014-01-09<br>2015-05-11<br>2020-01-20 || [https://docs.google.com/document/d/1oQO7eAn0NDESpug4TkKYck5gfGHEFxKEE-01wQ-np34/ 简介]
 |-
-| 历史的终结及最后之人 || The End of History and the Last Man || (美) [https://zh.wikipedia.org/wiki/%E6%B3%95%E8%98%AD%E8%A5%BF%E6%96%AF%C2%B7%E7%A6%8F%E5%B1%B1 弗朗西斯·福山] || 简体PDF<br>简体EPUB || 2013-01-01<br>2013-09-13 || [https://docs.google.com/document/d/1aVTuQ5_85pkeLzwRXu_V2lJbDcg8UrWOmDbLIjOr-1Y/ 简介]
+| 控制国家<br>——西方宪政的历史 || Controlling the State<br>——Constitutionalism from Ancient Athens to Today || (美) 斯科特·戈登 || 简体PDF(扫描版)<br>英文PDF || 2017-08-13<br>2020-01-20 || [https://docs.google.com/document/d/1PxJayhqBxwEJJCx3n3W9LpXNU7ARiQDY86DytmbVwhc/ 简介]
 |-
-| 联邦党人文集<br>''其它中文名：''<br>联邦主义者文集<br>美国宪法原理 || The Federalist Papers || (美) [https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%C2%B7%E6%B1%89%E5%AF%86%E5%B0%94%E9%A1%BF 亚历山大·汉密尔顿]<br>(美) [https://zh.wikipedia.org/wiki/%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E9%BA%A6%E8%BF%AA%E9%80%8A 詹姆斯·麦迪逊]<br>(美) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%9D%B0%E4%BC%8A 约翰·杰伊] || 简体PDF(扫描版)<br>简体EPUB<br>简体MOBI || 2013-11-27<br>2014-01-09<br>2015-05-11 || [https://docs.google.com/document/d/1oQO7eAn0NDESpug4TkKYck5gfGHEFxKEE-01wQ-np34/ 简介]
+| 历史的终结及最后之人 || The End of History and the Last Man || (美) [https://zh.wikipedia.org/wiki/%E6%B3%95%E8%98%AD%E8%A5%BF%E6%96%AF%C2%B7%E7%A6%8F%E5%B1%B1 弗朗西斯·福山] || 简体PDF<br>简体EPUB<br>英文PDF || 2013-01-01<br>2013-09-13<br>2020-01-20 || [https://docs.google.com/document/d/1aVTuQ5_85pkeLzwRXu_V2lJbDcg8UrWOmDbLIjOr-1Y/ 简介]
 |-
-| 民主的历程<br>——公元前508年-1993年 || Democracy<br>——The unfinished journey 508 BC - 1993 AD || (英) [https://en.wikipedia.org/wiki/John_Dunn_%28political_theorist%29 约翰·邓恩] (主编) || 简体PDF(扫描版) || 2014-06-22 || [https://docs.google.com/document/d/1FfmKtjOMRnQ51xLgtGs6-3WuFN97vnv6lGHKj4NawAk/ 简介]
+| 民主的历程<br>——公元前508年~1993年<br>''其它中文名：''<br>民主<br>——未竟之旅，公元前508年至公元1993年 || Democracy<br>——The Unfinished Journey, 508 BC to AD 1993 || (英) [https://en.wikipedia.org/wiki/John_Dunn_%28political_theorist%29 约翰·邓恩] (主编) || 简体PDF(扫描版) || 2014-06-22 || [https://docs.google.com/document/d/1FfmKtjOMRnQ51xLgtGs6-3WuFN97vnv6lGHKj4NawAk/ 简介]
 |-
 | 欧洲民主史<br>——从孟德斯鸠到凯尔森 || History of Democracy in Europe from Montesquieu to 1989 || (意) 萨尔沃·马斯泰罗 || 简体PDF(扫描版) || 2014-07-27 || [https://docs.google.com/document/d/1n_GEtA7CSTQ84iJ-U2Bryh6ZPacjrcn7mloh8K3xXrQ/ 简介]
 |-
@@ -160,7 +160,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 各国民权运动史 || N/A || 董之学 || 繁體PDF(竪排掃描版) || 2016-07-15 || [https://docs.google.com/document/d/1uFuOmfaIau_PkdkeRgM4DOBUCOgDmSWAjHlXU3zSHNs/ 简介]
 |-
-| 罗伯特议事规则 || Robert's Rules of Order || (美) [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E9%A6%AC%E4%B8%81%C2%B7%E7%BE%85%E4%BC%AF%E7%89%B9 亨利·马丁·罗伯特]<br>等 || 简体MOBI || 2015-05-12 || [https://docs.google.com/document/d/1IcpE6gLKVX1qQqTdFiQfZeS_NSfu27s4EAdrnnYh170/ 简介]
+| 罗伯特议事规则 || Robert's Rules of Order || (美) [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E9%A6%AC%E4%B8%81%C2%B7%E7%BE%85%E4%BC%AF%E7%89%B9 亨利·马丁·罗伯特]<br>等 || 简体MOBI(第10版)<br>英文EPUB(第11版) || 2015-05-12<br>2020-01-20 || [https://docs.google.com/document/d/1IcpE6gLKVX1qQqTdFiQfZeS_NSfu27s4EAdrnnYh170/ 简介]
 |-
 | 可操作的民主<br>——罗伯特议事规则下乡全纪录 || N/A || 寇延丁<br>袁天鹏 || 简体PDF(扫描版)<br>简体EPUB || 2015-05-12<br>2015-11-14 || [https://docs.google.com/document/d/14lrDDRRIb9zk0mxOpfP97rEOVgvnDC8cdvF-Jt5dcnE/ 简介]
 |}
@@ -174,21 +174,21 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 论自由 || On Liberty || (英) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9%C2%B7%E5%AF%86%E5%B0%94 约翰·密尔] || 简体PDF<br>简体EPUB<br>简体MOBI<br>英文PDF || 2013-04-14<br>2013-09-13<br>2018-11-10<br>2019-11-03 || [https://docs.google.com/document/d/1tt8VQ063v_CcOqUHB5T_c6YGhfqIiVbZmq9RXe8nEdA/ 简介]
 |-
-| 政府论 || Two Treatises of Government || (英) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%B4%9B%E5%85%8B 约翰·洛克] || 简体PDF<br>简体EPUB<br>简体MOBI<br>简体TXT || 2013-04-14<br>2013-09-13<br>2018-11-10<br>2016-05-14 || [https://docs.google.com/document/d/1y0-LP5oyWdGfXPqWDP5W88rENbYIOFt-6xwoTPbVOwo/ 简介]
+| 政府论 || Two Treatises of Government<br>''其它英文名：''<br>Two Treatises of Government and A Letter Concerning Toleration || (英) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%B4%9B%E5%85%8B 约翰·洛克] || 简体PDF<br>简体EPUB<br>简体MOBI<br>简体TXT<br>英文PDF || 2013-04-14<br>2013-09-13<br>2018-11-10<br>2016-05-14<br>2020-01-17 || [https://docs.google.com/document/d/1y0-LP5oyWdGfXPqWDP5W88rENbYIOFt-6xwoTPbVOwo/ 简介]
 |-
 | 自由论<br>''其它中文名：''<br>《自由四论》扩充版 || Four Essays on Liberty || (俄/英) [https://zh.wikipedia.org/wiki/%E4%BB%A5%E8%B5%9B%E4%BA%9A%C2%B7%E4%BC%AF%E6%9E%97 以赛亚·伯林] || 简体PDF(扫描版)<br>英文PDF || 2013-08-22<br>2013-12-15 || [https://docs.google.com/document/d/1UjpbcOXKFf8PHyRDZRYzD77Tt6fHdm5FJxc2eeYdqRU/ 简介]
 |-
 | 自由及其背叛<br>——人类自由的六个敌人 || Freedom and Its Betrayal<br>——Six Enemies of Human Liberty || (俄/英) [https://zh.wikipedia.org/wiki/%E4%BB%A5%E8%B5%9B%E4%BA%9A%C2%B7%E4%BC%AF%E6%9E%97 以赛亚·伯林] || 简体PDF(扫描版)<br>英文EPUB || 2014-05-23<br>2019-11-03 || [https://docs.google.com/document/d/1CCqB3BxnsETCtB2psPosGGeZ3g6AD-M17dTRFFcfQQk/ 简介]
 |-
-| 自由与繁荣的国度 || The Free and Prosperous Commonwealth || (奥/美) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 路德维希·冯·米塞斯] || 简体PDF(大字版)<br>简体PDF<br>简体HTML || 2019-08-29<br>2016-12-23<br>2018-12-04 || [https://docs.google.com/document/d/14IS1AA8XHZEE6zIQcdfXlZOlNUvbhhdYyP-ijP4wwYo/ 简介]
+| 自由与繁荣的国度 || The Free and Prosperous Commonwealth<br>——An Exposition of the Ideas of Classical Liberalism<br>''其它英文名：''<br>Liberalism<br>——The Classical Tradition<br>Liberalism, a Socio-Economic Exposition || (奥/美) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 路德维希·冯·米塞斯] || 简体PDF(大字版)<br>简体PDF<br>简体HTML<br>英文PDF || 2019-08-29<br>2016-12-23<br>2018-12-04<br>2020-01-17 || [https://docs.google.com/document/d/14IS1AA8XHZEE6zIQcdfXlZOlNUvbhhdYyP-ijP4wwYo/ 简介]
 |-
-| 正义论 || A Theory of Justice || (美) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E7%BD%97%E5%B0%94%E6%96%AF 约翰·罗尔斯] || 简体EPUB<br>简体MOBI<br>简体TXT<br>简体PDF(扫描版) || 2013-09-13<br>2018-11-10<br>2016-05-14<br>2013-05-23 || [https://docs.google.com/document/d/1Z0gSPYoZMpdnsZE9mpHkiKuTWATR9w0WlOdiiu-i9Tc/ 简介]
+| 正义论 || A Theory of Justice || (美) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E7%BD%97%E5%B0%94%E6%96%AF 约翰·罗尔斯] || 简体EPUB<br>简体MOBI<br>简体TXT<br>简体PDF(扫描版)<br>英文PDF(修订版) || 2013-09-13<br>2018-11-10<br>2016-05-14<br>2013-05-23<br>2020-01-16 || [https://docs.google.com/document/d/1Z0gSPYoZMpdnsZE9mpHkiKuTWATR9w0WlOdiiu-i9Tc/ 简介]
 |-
-| 政治自由主义 || Political Liberalism || (美) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E7%BD%97%E5%B0%94%E6%96%AF 约翰·罗尔斯] || 简体HTML<br>简体MOBI<br>简体PDF(扫描版) || 2013-01-17<br>2015-05-11<br>2018-12-04 || [https://docs.google.com/document/d/1npbNsZpyQNssJz-FTDI55me2Z47BEGYds6ic0qHvVhg/ 简介]
+| 政治自由主义 || Political Liberalism || (美) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E7%BD%97%E5%B0%94%E6%96%AF 约翰·罗尔斯] || 简体HTML<br>简体MOBI<br>简体PDF(扫描版)<br>英文EPUB(扩充版) || 2013-01-17<br>2015-05-11<br>2018-12-04<br>2020-01-17 || [https://docs.google.com/document/d/1npbNsZpyQNssJz-FTDI55me2Z47BEGYds6ic0qHvVhg/ 简介]
 |-
 | 无政府、国家与乌托邦 || Anarchy, State, and Utopia || (美) [https://zh.wikipedia.org/wiki/%E7%BE%85%E4%BC%AF%E7%89%B9%C2%B7%E8%AB%BE%E9%BD%8A%E5%85%8B 罗伯特·诺齐克] || 简体PDF(扫描版)<br>英文EPUB || 2013-07-30<br>2014-03-29 || [https://docs.google.com/document/d/1uxnAbtQtzvLmhPIqG89HDgcXay5jwjHGiC_925oJjFo/ 简介]
 |-
-| 自由主义与正义的局限 || Liberalism and the Limits of Justice || (美) [https://zh.wikipedia.org/wiki/%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E6%A1%91%E5%BE%B7%E5%B0%94 迈克尔·桑德尔] || 简体PDF<br>简体PDF(扫描版) || 2013-01-01<br>2018-12-05 || [https://docs.google.com/document/d/1MHTG9z71aXwlJ6-ErDwPWoxmz4Pf7yCYRPHMFQ5VJws/ 简介]
+| 自由主义与正义的局限 || Liberalism and the Limits of Justice || (美) [https://zh.wikipedia.org/wiki/%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E6%A1%91%E5%BE%B7%E5%B0%94 迈克尔·桑德尔] || 简体PDF(第2版)<br>简体PDF(第2版 扫描版)<br>英文PDF(第2版 扫描版) || 2013-01-01<br>2018-12-05<br>2020-01-16 || [https://docs.google.com/document/d/1MHTG9z71aXwlJ6-ErDwPWoxmz4Pf7yCYRPHMFQ5VJws/ 简介]
 |-
 | 自由史论 || The History of Freedom and Other Essays || (英) [https://zh.wikipedia.org/wiki/%E9%98%BF%E5%85%8B%E9%A1%BF%E5%8B%8B%E7%88%B5 阿克顿勋爵] || 简体PDF(扫描版) || 2014-07-27 || [https://docs.google.com/document/d/1H_Q98aR_jRPf9LEWqckCR17KCtUm619djjFsdQXzCD4/ 简介]
 |-
@@ -196,11 +196,11 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 利维坦<br>——教会国家和市民国家的实质、形式、权力<br>''其它中文名：''<br>巨灵论 || Leviathan or The Matter, Forme and Power of a Common Wealth Ecclesiastical and Civil || (英) [https://zh.wikipedia.org/wiki/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E9%9C%8D%E5%B8%83%E6%96%AF 托马斯·霍布斯] || 简体PDF<br>简体MOBI<br>英文PDF || 2014-06-22<br>2018-12-22<br>2019-11-03 || [https://docs.google.com/document/d/1zniBy48ywZXar352j3e_ZOrIrUZaz8kgCZ0ILtd5H30/ 简介]
 |-
-| 古代人的自由与现代人的自由 || The Liberty of the Ancients Compared with that of the Moderns || (法) [https://en.wikipedia.org/wiki/Benjamin_Constant 本杰明·贡斯当] || 简体PDF(扫描版)<br>简体MOBI || 2014-06-22<br>2015-05-11 || [https://docs.google.com/document/d/1HhAHKPUnqpRlefik77n4UrLdemTD_cgfvo8KxurDXsw/ 简介]
+| 古代人的自由与现代人的自由 || The Liberty of the Ancients Compared with that of the Moderns || (法) [https://en.wikipedia.org/wiki/Benjamin_Constant 本杰明·贡斯当] || 简体PDF(扫描版)<br>简体MOBI<br>英文PDF || 2014-06-22<br>2015-05-11<br>2020-01-17 || [https://docs.google.com/document/d/1HhAHKPUnqpRlefik77n4UrLdemTD_cgfvo8KxurDXsw/ 简介]
 |-
 | 欧洲自由主义史 || The History of European Liberalism || (意) [https://en.wikipedia.org/wiki/Guido_De_Ruggiero 圭多·德·拉吉罗] || 简体PDF(扫描版) || 2015-01-12 || [https://docs.google.com/document/d/17RebblNr8jWWwBjpiP3nzsb48JYCNKXq0k5KUvbz96A/ 简介]
 |-
-| 论出版自由 || Areopagitica<br>——A Speech for the Liberty of Unlicensed Printing || (英) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E5%BC%A5%E5%B0%94%E9%A1%BF 约翰·弥尔顿] || 简体PDF<br>简体MOBI || 2014-02-03<br>2015-05-11 || [https://docs.google.com/document/d/1yHRDBpShEmXE12FTbqxA_Bt6f7LyVzlA3F0rpnUjdng/ 简介]
+| 论出版自由 || Areopagitica<br>——A Speech for the Liberty of Unlicensed Printing || (英) [https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E5%BC%A5%E5%B0%94%E9%A1%BF 约翰·弥尔顿] || 简体PDF<br>简体MOBI<br>英文EPUB || 2014-02-03<br>2015-05-11<br>2020-01-17 || [https://docs.google.com/document/d/1yHRDBpShEmXE12FTbqxA_Bt6f7LyVzlA3F0rpnUjdng/ 简介]
 |-
 | 给你所爱的人以自由 || N/A || [https://zh.wikipedia.org/wiki/%E8%8C%85%E4%BA%8E%E8%BD%BC 茅于轼] || 简体PDF<br>简体PDF(大字版)<br>简体EPUB<br>简体MOBI || 2013-10-26<br>2013-11-26<br>2015-11-14<br>2015-11-14 || [https://docs.google.com/document/d/1Lyn3S8DSAzLLQtE11W2RCRdarlTM9XjAiDmTys7mISA/ 简介]
 |}
@@ -212,7 +212,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 保守主义思想<br>——从伯克到艾略特<br>''其它中文名：''<br>保守主义的心灵<br>保守主义思想<br>——从伯克到桑塔亚那 || The Conservative Mind<br>——From Burke to Eliot || (美) [https://en.wikipedia.org/wiki/Russell_Kirk 拉塞尔·柯克] || 英文PDF(浓缩版) || 2019-08-29 || [https://docs.google.com/document/d/1kpzHnb7HgSI9R-_VR3d9CvZMpwFxyE2tGmtgzZvc2Lk/ 简介]
+| 保守主义思想<br>——从伯克到艾略特<br>''其它中文名：''<br>保守主义的心灵<br>保守主义思想<br>——从伯克到桑塔亚那 || The Conservative Mind<br>——From Burke to Eliot<br>''其它英文名：''<br>The Conservative Mind<br>——From Burke to Santayana || (美) [https://en.wikipedia.org/wiki/Russell_Kirk 拉塞尔·柯克] || 英文EPUB<br>英文PDF(浓缩版) || 2020-01-16<br>2019-08-29 || [https://docs.google.com/document/d/1kpzHnb7HgSI9R-_VR3d9CvZMpwFxyE2tGmtgzZvc2Lk/ 简介]
 |-
 | 保守主义 || Conservatism || (英) [https://en.wikipedia.org/wiki/Hugh_Cecil,_1st_Baron_Quickswood 休·塞西尔勋爵] || 简体PDF(扫描版) || 2019-08-29 || [https://docs.google.com/document/d/1fmxkx47yJj8KYLVMVb1Vgu7rOS32n1so2bnCfO-LwNg/ 简介]
 |-
@@ -224,9 +224,9 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 后资本主义社会 || Post-Capitalist Society || (奥/美) [https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E5%BE%B7%E9%B2%81%E5%85%8B 彼得·德鲁克] || 简体PDF(扫描版)<br>英文PDF(扫描版) || 2018-09-14<br>2019-11-05 || [https://docs.google.com/document/d/1Nxsqf02d5uYu8FGn3K9uNJx_D8Ixh7UCmBvqHnd6LB4/ 简介]
+| 后资本主义社会 || Post-Capitalist Society || (奥/美) [https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E5%BE%B7%E9%B2%81%E5%85%8B 彼得·德鲁克] || 简体PDF(扫描版)<br>英文PDF(扫描版) || 2018-09-14<br>2020-01-20 || [https://docs.google.com/document/d/1Nxsqf02d5uYu8FGn3K9uNJx_D8Ixh7UCmBvqHnd6LB4/ 简介]
 |-
-| 新教伦理与资本主义精神 || The Protestant Ethic and the Spirit of Capitalism || (德) [https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%85%8B%E6%96%AF%C2%B7%E9%9F%8B%E4%BC%AF 马克斯·韦伯] || 简体HTML<br>简体MOBI || 2014-04-14<br>2015-05-11 || [https://docs.google.com/document/d/1x0ZznHlX_TA2yIhK3oL6QvAGaE-T_x92mD59MRHSYlE/ 简介]
+| 新教伦理与资本主义精神 || The Protestant Ethic and the Spirit of Capitalism || (德) [https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%85%8B%E6%96%AF%C2%B7%E9%9F%8B%E4%BC%AF 马克斯·韦伯] || 简体HTML<br>简体MOBI<br>英文PDF || 2014-04-14<br>2015-05-11<br>2020-01-20 || [https://docs.google.com/document/d/1x0ZznHlX_TA2yIhK3oL6QvAGaE-T_x92mD59MRHSYlE/ 简介]
 |-
 | 牛津通识读本：资本主义 || Capitalism || (英) 詹姆斯·富尔彻 || 简体EPUB<br>简体AZW3 || 2015-12-13<br>2015-12-13 || [https://docs.google.com/document/d/1N0yg3koUOvRhoCT41FXup0sopPDMtCNDwbI4jkV_TlY/ 简介]
 |}
@@ -238,13 +238,13 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 大失败<br>——二十世纪共产主义的兴亡 || The Grand Failure<br>——The Birth and The Death of Communism in the Twentieth Century || (波兰/美) [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 兹比格涅夫·布热津斯基] || 简体PDF(扫描版) || 2012-10-06 || [https://docs.google.com/document/d/1SRsTj2i-zccQcD4Q_4hBppZMzJPzTBkp6EQOUZCFs2Y/ 简介]
+| 大失败<br>——二十世纪共产主义的兴亡 || The Grand Failure<br>——The Birth and Death of Communism in the Twentieth Century || (波兰/美) [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 兹比格涅夫·布热津斯基] || 简体PDF(扫描版) || 2012-10-06 || [https://docs.google.com/document/d/1SRsTj2i-zccQcD4Q_4hBppZMzJPzTBkp6EQOUZCFs2Y/ 简介]
 |-
-| 历史决定论的贫困<br>''其它中文名：''<br>历史主义的贫困 || The Poverty of Historicism || (奥/英) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || 简体PDF<br>简体EPUB<br>简体HTML<br>简体MOBI || 2014-07-27<br>2015-02-15<br>2012-12-11<br>2015-05-11 || [https://docs.google.com/document/d/1ZQDSZ2ma1bQjuP_SNs5O8kkaoPEawgm2FN5SSsChLMU/ 简介]
+| 历史决定论的贫困<br>''其它中文名：''<br>历史主义的贫困 || The Poverty of Historicism || (奥/英) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || 简体PDF<br>简体EPUB<br>简体HTML<br>简体MOBI<br>英文EPUB || 2014-07-27<br>2015-02-15<br>2012-12-11<br>2015-05-11<br>2020-01-14 || [https://docs.google.com/document/d/1ZQDSZ2ma1bQjuP_SNs5O8kkaoPEawgm2FN5SSsChLMU/ 简介]
 |-
 | 新阶级<br>——对共产主义制度的分析 || The New Class<br>——An Analysis of the Communist System || (南斯拉夫) [https://zh.wikipedia.org/wiki/%E5%AF%86%E6%B4%9B%E5%87%A1%C2%B7%E5%BE%B7%E7%83%AD%E6%8B%89%E6%96%AF 密洛凡·德热拉斯] || 简体PDF(扫描版)<br>英文PDF(扫描版) || 2012-10-06<br>2018-09-06 || [https://docs.google.com/document/d/1SqZUfHRNp1XyfOLKJ0VrWPOfrroOD6GKfEDzauH9JRs/ 简介]
 |-
-| 共产主义实录 || Communism<br>——A History || (美) [https://en.wikipedia.org/wiki/Richard_Pipes 理查德·派普斯] || 简体PDF || 2012-10-05 || [https://docs.google.com/document/d/1qQySfLohHdWbKGaKAfO-azkm_Zv6h1Fmcom9uk-6Smw/ 简介]
+| 共产主义实录 || Communism<br>——A History || (美) [https://en.wikipedia.org/wiki/Richard_Pipes 理查德·派普斯] || 简体PDF<br>英文EPUB || 2012-10-05<br>2020-01-14 || [https://docs.google.com/document/d/1qQySfLohHdWbKGaKAfO-azkm_Zv6h1Fmcom9uk-6Smw/ 简介]
 |-
 | 恐怖主义与共产主义 || Terrorism and Communism<br>——A Contribution to the Natural History of Revolution || (德) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E7%88%BE%C2%B7%E8%80%83%E8%8C%A8%E5%9F%BA 卡尔·考茨基] || 简体PDF<br>英文PDF(扫描版) || 2013-04-11<br>2019-08-29 || [https://docs.google.com/document/d/16RfckBiSxG5v1mmMxrZ3eLtpEUoWRNN_4g2FsZs4zxk/ 简介]
 |-
@@ -260,9 +260,9 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 通往奴役之路 || The Road to Serfdom || (奥/英) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 弗里德里希·哈耶克] || 简体PDF(台湾版)<br>简体PDF(大字版)<br>简体PDF<br>简体EPUB<br>简体MOBI<br>英文PDF<br>英文EPUB || 2014-05-18<br>2018-09-10<br>2013-03-24<br>2013-09-13<br>2015-05-11<br>2013-05-30<br>2019-01-04 || [https://docs.google.com/document/d/1mmLgc9udwofBGrGD2DHqVq3pZZcaDDqTiw_8EN20wFs/ 简介]
 |-
-| 致命的自负<br>——社会主义的谬误 || The Fatal Conceit<br>——The Errors of Socialism || (奥/英) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 弗里德里希·哈耶克] || 简体PDF<br>简体EPUB<br>简体MOBI<br>简体TXT || 2013-03-24<br>2013-09-13<br>2015-05-11<br>2016-05-14 || [https://docs.google.com/document/d/1m-lOvfilllJ6I8rjepkM1G1_V9ETelOhjIPtBrTTPhw/ 简介]
+| 社会主义<br>——经济与社会学的分析 || Socialism<br>——An Economic and Sociological Analysis || (奥/美) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 路德维希·冯·米塞斯] || 简体PDF(扫描版)<br>英文PDF(扫描版) || 2013-03-31<br>2020-01-20 || [https://docs.google.com/document/d/1we7zyM4YtWndp6HsYAWqDOm-GOOs2RvX6tQU82f1gyI/ 简介]
 |-
-| 社会主义<br>——经济与社会学的分析 || Socialism<br>——An Economic and Sociological Analysis || (奥/美) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 路德维希·冯·米塞斯] || 简体PDF(扫描版) || 2013-03-31 || [https://docs.google.com/document/d/1we7zyM4YtWndp6HsYAWqDOm-GOOs2RvX6tQU82f1gyI/ 简介]
+| 致命的自负<br>——社会主义的谬误 || The Fatal Conceit<br>——The Errors of Socialism || (奥/英) [https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%93%88%E8%80%B6%E5%85%8B 弗里德里希·哈耶克] || 简体PDF<br>简体EPUB<br>简体MOBI<br>简体TXT<br>英文EPUB || 2013-03-24<br>2013-09-13<br>2015-05-11<br>2016-05-14<br>2020-01-20 || [https://docs.google.com/document/d/1m-lOvfilllJ6I8rjepkM1G1_V9ETelOhjIPtBrTTPhw/ 简介]
 |-
 | 社会主义国家的经济计算 || Economic Calculation in the Socialist Commonwealth || (奥/美) [https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%B6%AD%E5%B8%8C%C2%B7%E9%A6%AE%C2%B7%E7%B1%B3%E5%A1%9E%E6%96%AF 路德维希·冯·米塞斯] || 英文PDF || 2018-09-22 || [https://docs.google.com/document/d/1cHp-HJtF_d8GOwQu42IVnRj1Z53o9RHNdNoAYsHsZg4/ 简介]
 |-
@@ -274,15 +274,15 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 开放社会及其敌人 || The Open Society and Its Enemies || (奥/英) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || 简体PDF<br>简体EPUB<br>简体MOBI<br>简体PDF(扫描版) || 2012-12-11<br>2013-09-14<br>2018-11-10<br>2017-03-24 || [https://docs.google.com/document/d/1W3zcBUg55Mk5Vhzz3ajelXGh1YoOAxX8zzQvd9LniIs/ 简介]
+| 开放社会及其敌人 || The Open Society and Its Enemies || (奥/英) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E6%B3%A2%E6%99%AE%E5%B0%94 卡尔·波普尔] || 简体PDF<br>简体EPUB<br>简体MOBI<br>简体PDF(扫描版)<br>英文PDF || 2012-12-11<br>2013-09-14<br>2018-11-10<br>2017-03-24<br>2020-01-15 || [https://docs.google.com/document/d/1W3zcBUg55Mk5Vhzz3ajelXGh1YoOAxX8zzQvd9LniIs/ 简介]
 |-
 | 极权主义的起源 || The Origins of Totalitarianism || (德/美) [https://zh.wikipedia.org/wiki/%E6%B1%89%E5%A8%9C%C2%B7%E9%98%BF%E4%BC%A6%E7%89%B9 汉娜·阿伦特] || 简体PDF<br>简体CHM<br>简体MOBI<br>简体TXT<br>英文PDF(扫描版) || 2012-10-06<br>2012-10-14<br>2014-02-23<br>2016-04-29<br>2019-08-29 || [https://docs.google.com/document/d/1NcwkcDn9V5ArRC6TUTFvTdKDB6QZYQeFit_kJPog1RA/ 简介]
 |-
-| 东方专制主义<br>——对于极权力量的比较研究 || Oriental Despotism<br>——A Comparative Study of Total Power || (德/美) [https://en.wikipedia.org/wiki/Karl_August_Wittfogel 卡尔·魏特夫] (中文名：魏复古) || 简体PDF(扫描版) || 2019-02-25 || [https://docs.google.com/document/d/1huLbyBvVHxXvWS-mChqwLjhU9JUuEY1Lgt1PrcxhJlA/ 简介]
+| 东方专制主义<br>——对于极权力量的比较研究 || Oriental Despotism<br>——A Comparative Study of Total Power || (德/美) [https://en.wikipedia.org/wiki/Karl_August_Wittfogel 卡尔·魏特夫] (中文名：魏复古) || 简体PDF(扫描版)<br>英文PDF(扫描版) || 2019-02-25<br>2020-01-15 || [https://docs.google.com/document/d/1huLbyBvVHxXvWS-mChqwLjhU9JUuEY1Lgt1PrcxhJlA/ 简介]
 |-
 | 极权主义民主的起源 || The Origins of Totalitarian Democracy || (波兰/以色列) [https://en.wikipedia.org/wiki/Jacob_Talmon 雅各布·塔尔蒙] || 简体PDF(扫描版) || 2015-07-14 || [https://docs.google.com/document/d/16s1oEuEqGsdhyQalvTYK9zcDumn-Ac_mWkRO9OtfWmg/ 简介]
 |-
-| 威权统治的转型<br>——关于不确定民主的试探性结论 || Transitions from Authoritarian Rule<br>——Tentative Conclusions About Uncertain Democracies || (阿根廷) [https://en.wikipedia.org/wiki/Guillermo_O%27Donnell 吉列尔莫·奥唐奈]<br>(美) [https://en.wikipedia.org/wiki/Philippe_C._Schmitter 菲利普·施密特] || 简体PDF(扫描版) || 2013-08-21 || [https://docs.google.com/document/d/1mDbeZ-JwiZ2hMH1KGtZq7w_N6oJlY-PRoKzvCpBYClM/ 简介]
+| 威权统治的转型<br>——关于不确定民主的试探性结论 || Transitions from Authoritarian Rule<br>——Tentative Conclusions about Uncertain Democracies || (阿根廷) [https://en.wikipedia.org/wiki/Guillermo_O%27Donnell 吉列尔莫·奥唐奈]<br>(美) [https://en.wikipedia.org/wiki/Philippe_C._Schmitter 菲利普·施密特] || 简体PDF(扫描版)<br>英文PDF(扫描版) || 2013-08-21<br>2020-01-15 || [https://docs.google.com/document/d/1mDbeZ-JwiZ2hMH1KGtZq7w_N6oJlY-PRoKzvCpBYClM/ 简介]
 |-
 | 独裁者手册<br>——为什么恶劣行为总是政治成功的通行证 || The Dictator's Handbook<br>——Why Bad Behavior is Almost Always Good Politics || (美) [https://en.wikipedia.org/wiki/Bruce_Bueno_de_Mesquita 布鲁诺·德·梅斯奎塔]<br>(美) 阿拉斯泰尔·史密斯 || 英文PDF(无删节)<br>简体EPUB(有删节)<br>简体MOBI(有删节) || 2018-11-18<br>2019-03-02<br>2019-03-02 || [https://docs.google.com/document/d/1W0EDnnhCsbOUavwjDPzd2RgGncR97xFv1kO9tc--nBA/ 简介]
 |-
@@ -298,11 +298,11 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 大棋局<br>——美国的首要地位及其地缘战略 || The Grand Chessboard<br>——American Primacy and Its Geostrategic Imperatives || (波兰/美) [https://zh.wikipedia.org/wiki/%E5%85%B9%E6%AF%94%E6%A0%BC%E6%B6%85%E5%A4%AB%C2%B7%E5%B8%83%E7%83%AD%E6%B4%A5%E6%96%AF%E5%9F%BA 兹比格涅夫·布热津斯基] || 简体PDF<br>简体PDF(扫描版)<br>简体TXT<br>简体MOBI<br>英文PDF || 2013-04-14<br>2017-02-17<br>2016-04-29<br>2018-11-10<br>2019-08-29 || [https://docs.google.com/document/d/1Yy4W9NtBHIsz1ulb0kb_QOc8FGylBP3QenUmKicQADo/ 简介]
 |-
-| 大外交 || Diplomacy || (美) [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E5%9F%BA%E8%BE%9B%E6%A0%BC 亨利·基辛格] || 简体PDF(扫描版)<br>英文PDF(扫描版) || 2014-02-05<br>2019-05-30 || [https://docs.google.com/document/d/1cEaDdGVNj0r0-g8iOt7f6t8jBZq69hH-weplVQbmUoI/ 简介]
+| 大外交 || Diplomacy || (美) [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E5%9F%BA%E8%BE%9B%E6%A0%BC 亨利·基辛格] || 简体PDF(扫描版)<br>英文PDF(扫描版)<br>英文EPUB || 2014-02-05<br>2019-05-30<br>2020-01-25 || [https://docs.google.com/document/d/1cEaDdGVNj0r0-g8iOt7f6t8jBZq69hH-weplVQbmUoI/ 简介]
 |-
 | 论中国 || On China || (美) [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E5%9F%BA%E8%BE%9B%E6%A0%BC 亨利·基辛格] || 简体EPUB<br>简体MOBI<br>英文EPUB || 2014-02-05<br>2018-11-10<br>2014-02-05 || [https://docs.google.com/document/d/1mI8wM0PVzTXi4SRFTLUimLAyhvXbJPlG9qkeWtIBTQk/ 简介]
 |-
-| 理解国际冲突<br>——理论与历史<br>''其它中文名：''<br>理解全球冲突与合作<br>——理论与历史 || Understanding International Conflicts<br>——An Introduction to Theory and History || (美) [https://en.wikipedia.org/wiki/Joseph_Nye 小约瑟夫·奈] || 简体PDF(第3版 扫描版) || 2018-12-25 || [https://docs.google.com/document/d/1EfcRhW5VchBc91hjRugsU5WdUGTvtai7qpO0d32Pcn4/ 简介]
+| 理解国际冲突<br>——理论与历史<br>''其它中文名：''<br>理解全球冲突与合作<br>——理论与历史 || Understanding International Conflicts<br>——An Introduction to Theory and History<br>''其它英文名：''<br>Understanding Global Conflict and Cooperation<br>——An Introduction to Theory and History || (美) [https://en.wikipedia.org/wiki/Joseph_Nye 小约瑟夫·奈]<br>(加) 戴维·威尔斯 || 简体PDF(第3版 扫描版)<br>英文PDF(第9版) || 2018-12-25<br>2020-01-25 || [https://docs.google.com/document/d/1EfcRhW5VchBc91hjRugsU5WdUGTvtai7qpO0d32Pcn4/ 简介]
 |-
 | 牛津通识读本：国际关系 || International Relations || (英) [https://en.wikipedia.org/wiki/Paul_Wilkinson_(terrorism_expert) 保罗·威尔金森] || 英文PDF || 2015-12-13 || [https://docs.google.com/document/d/1wPNvhsvqGIW56i5W-L5PP3i_ar6aqiQQpepp4pz654Q/ 简介]
 |-
@@ -318,7 +318,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 群众性防卫<br>——一种超军事的武器系统 || Civilian-Based Defense<br>——A Post-Military Weapons System || (美) [https://zh.wikipedia.org/wiki/%E5%90%89%E6%81%A9%C2%B7%E5%A4%8F%E6%99%AE 吉恩·夏普] || 简体PDF<br>繁體PDF(掃描版) || 2013-03-16<br>2013-02-02 || [https://docs.google.com/document/d/1CerYZTiVPS6chqrI3V7-jhxusl7k0d60UozOBmbEC-o/ 简介]
 |-
-| 一种更强大的力量<br>——非暴力抗争一百年 || A Force More Powerful<br>——A Century of Nonviolent Conflict || (美) [https://en.wikipedia.org/wiki/Peter_Ackerman 彼得·阿克曼]<br>(美) [https://en.wikipedia.org/wiki/Jack_DuVall 杰克·杜瓦尔] || 简体MOBI(上下册) || 2013-05-13 || [https://docs.google.com/document/d/1yUSLshqbtCIRkqwGQl2AhvmGg0hDA4SeMyyvCSfSSQ4/ 简介]
+| 一种更强大的力量<br>——非暴力抗争一百年 || A Force More Powerful<br>——A Century of Nonviolent Conflict || (美) [https://en.wikipedia.org/wiki/Peter_Ackerman 彼得·阿克曼]<br>(美) [https://en.wikipedia.org/wiki/Jack_DuVall 杰克·杜瓦尔] || 简体MOBI(上下册)<br>英文EPUB || 2013-05-13<br>2020-01-16 || [https://docs.google.com/document/d/1yUSLshqbtCIRkqwGQl2AhvmGg0hDA4SeMyyvCSfSSQ4/ 简介]
 |-
 | 和平抗议何以有效<br>——非暴力冲突的策略逻辑 || Why Civil Resistance Works<br>——The Strategic Logic of Nonviolent Conflict || (美) 艾丽卡·切诺韦思<br>(美) 玛丽亚·斯蒂芬 || 英文PDF<br>英文EPUB || 2019-07-28<br>2019-07-28 || [https://docs.google.com/document/d/1ZUpDozVWhzJTf9ueTD6ec1nF45POlJBXpEMm_yFrwV8/ 简介]
 |-
@@ -380,11 +380,11 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 动物庄园<br>''其它中文名：''<br>动物农庄 || Animal Farm || (英) [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E5%A8%81%E5%B0%94 乔治·奥威尔] || 简体PDF<br>简体EPUB<br>简体TXT<br>简体PDF(扫描版)<br>简体MOBI<br>英文PDF || 2010-09-23<br>2013-09-13<br>2012-03-08<br>2013-10-20<br>2014-02-23<br>2012-01-11 || [https://docs.google.com/document/d/1jeeFYsnlXXTvJllbbDN_75N82VHfFtuweuwf4_Rxx4I/ 简介]
 |-
-| 美丽新世界<br>''其它中文名：''<br>美妙的新世界 || Brave New World || (英) [https://zh.wikipedia.org/wiki/%E5%A5%A5%E5%B0%94%E5%BE%B7%E6%96%AF%C2%B7%E8%B5%AB%E8%83%A5%E9%BB%8E 奥尔德斯·赫胥黎] || 简体EPUB<br>简体HTML<br>简体TXT<br>简体MOBI || 2013-09-15<br>2019-08-23<br>2012-10-05<br>2015-02-17 || [https://docs.google.com/document/d/1QvZGHM7l_pviOkBwu-Eoux5GEK_H1q8lLY8T7e1JPmg/ 简介]
+| 美丽新世界<br>''其它中文名：''<br>美妙的新世界 || Brave New World || (英) [https://zh.wikipedia.org/wiki/%E5%A5%A5%E5%B0%94%E5%BE%B7%E6%96%AF%C2%B7%E8%B5%AB%E8%83%A5%E9%BB%8E 奥尔德斯·赫胥黎] || 简体EPUB<br>简体HTML<br>简体TXT<br>简体MOBI<br>英文PDF || 2013-09-15<br>2019-08-23<br>2012-10-05<br>2015-02-17<br>2020-01-14 || [https://docs.google.com/document/d/1QvZGHM7l_pviOkBwu-Eoux5GEK_H1q8lLY8T7e1JPmg/ 简介]
 |-
-| 我们<br>''其它中文名：''<br>反乌托邦与自由 || We || (苏) [https://zh.wikipedia.org/wiki/%E8%91%89%E5%A4%AB%E6%A0%B9%E5%B0%BC%C2%B7%E4%BC%8A%E8%90%AC%E8%AB%BE%E7%B6%AD%E5%A5%87%C2%B7%E6%89%8E%E7%B1%B3%E4%BA%9E%E4%BA%AC 尤金·扎米亚京] || 简体EPUB<br>简体MOBI || 2013-09-15<br>2015-02-17 || [https://docs.google.com/document/d/1VO76RE3pXB2BTq39EAXUtaFBBgX2VHoygPZN4hJNwSE/ 简介]
+| 我们<br>''其它中文名：''<br>反乌托邦与自由 || We || (俄/苏) [https://zh.wikipedia.org/wiki/%E8%91%89%E5%A4%AB%E6%A0%B9%E5%B0%BC%C2%B7%E4%BC%8A%E8%90%AC%E8%AB%BE%E7%B6%AD%E5%A5%87%C2%B7%E6%89%8E%E7%B1%B3%E4%BA%9E%E4%BA%AC 尤金·扎米亚京] || 简体EPUB<br>简体MOBI<br>英文EPUB || 2013-09-15<br>2015-02-17<br>2020-01-14 || [https://docs.google.com/document/d/1VO76RE3pXB2BTq39EAXUtaFBBgX2VHoygPZN4hJNwSE/ 简介]
 |-
-| 严厉的月亮<br>''其它中文名：''<br>怒月<br>月亮是位严厉的主妇 || The Moon Is a Harsh Mistress || (美) [https://zh.wikipedia.org/wiki/%E7%BE%85%E4%BC%AF%E7%89%B9%C2%B7%E6%B5%B7%E8%90%8A%E5%9B%A0 罗伯特·海因莱因] || 简体EPUB<br>简体MOBI || 2019-03-04<br>2019-03-04 || [https://docs.google.com/document/d/1M3ZSDc6JF80T7wvfm7L-kpFyTnDds0wJlzc6CT6GQGM/ 简介]
+| 严厉的月亮<br>''其它中文名：''<br>怒月<br>月亮是位严厉的主妇 || The Moon Is a Harsh Mistress || (美) [https://zh.wikipedia.org/wiki/%E7%BE%85%E4%BC%AF%E7%89%B9%C2%B7%E6%B5%B7%E8%90%8A%E5%9B%A0 罗伯特·海因莱因] || 简体EPUB<br>简体MOBI<br>英文EPUB || 2019-03-04<br>2019-03-04<br>2020-01-14 || [https://docs.google.com/document/d/1M3ZSDc6JF80T7wvfm7L-kpFyTnDds0wJlzc6CT6GQGM/ 简介]
 |-
 | 云图 || Cloud Atlas || (英) [https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%8D%AB%C2%B7%E7%B1%B3%E5%88%87%E5%B0%94_(%E4%BD%9C%E5%AE%B6) 大卫·米切尔] || 简体PDF<br>简体EPUB<br>简体MOBI<br>英文PDF || 2014-02-06<br>2014-02-06<br>2018-11-10<br>2014-02-06 || [https://docs.google.com/document/d/1tliIPXOfsZr0_EGcONWQIcKv5VPrexAV53AZ4FZCsJ4/ 简介]
 |-
@@ -456,7 +456,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 中国民运反思 || N/A || [https://zh.wikipedia.org/wiki/%E8%83%A1%E5%B9%B3_%28%E4%BD%9C%E5%AE%B6%29 胡平] || 简体PDF<br>简体TXT<br>[http://www.64memo.com/b5/48.htm 繁體WEB] || 2013-05-01<br>2014-05-23<br>N/A || [https://docs.google.com/document/d/15mmH_jERdMEeIS7yXyJtboRcHHfumfgi7qNMOeLVbxU/ 简介]
 |-
-| 天安门的力量<br>——国家-社会关系与1989学生运动 || The Power of Tiananmen<br>——State-Society Relations and the 1989 Beijing Student Movement || [https://zh.wikipedia.org/wiki/%E8%B5%B5%E9%BC%8E%E6%96%B0 赵鼎新] || 繁體PDF(掃描版) || 2012-12-26 || [https://docs.google.com/document/d/1kybdW20dVzw-Yz6HSK3x8IWNTngKtOi5f7FmJkd6Ibc/ 简介]
+| 天安门的力量<br>——国家•社会关系与1989学生运动 || The Power of Tiananmen<br>——State-Society Relations and the 1989 Beijing Student Movement || [https://zh.wikipedia.org/wiki/%E8%B5%B5%E9%BC%8E%E6%96%B0 赵鼎新] || 繁體PDF(掃描版)<br>英文PDF || 2012-12-26<br>2020-01-23 || [https://docs.google.com/document/d/1kybdW20dVzw-Yz6HSK3x8IWNTngKtOi5f7FmJkd6Ibc/ 简介]
 |-
 | 回顾与反思<br>——六四流亡学生17人 || N/A || (多人) || 繁體PDF || 2019-04-03 || [https://docs.google.com/document/d/1diNBq8o8LR6ZP8zs3NAMVXSOsBpTAekMUyF3MXx9aiw/ 简介]
 |-
@@ -468,7 +468,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 逃亡者 || Escape From China<br>——The Long Journey from Tiananmen to Freedom || [https://zh.wikipedia.org/wiki/%E5%BC%A0%E4%BC%AF%E7%AC%A0 张伯笠] || 简体TXT(缺最后2章) || 2019-05-20 || [https://docs.google.com/document/d/1iQIQaCAtqXSzedbDEjS9oPJB3PaD_rWOv8x8C1TYXzU/ 简介]
 |-
-| 铭记天安门 || Remembering Tiananmen Square || (英) [https://en.wikipedia.org/wiki/Robin_Munro Robin Munro] || 简体PDF<br>[https://www.thenation.com/article/remembering-tiananmen-square/ 英文WEB] || 2012-05-25<br>N/A || [https://docs.google.com/document/d/1QzrWcC0vcTWSuY82V8P8BJw6yU8nriFCJNVybDccV7c/ 简介]
+| 铭记天安门 || Remembering Tiananmen Square || (英) [https://en.wikipedia.org/wiki/Robin_Munro 罗宾·门罗] || 简体PDF<br>[https://www.thenation.com/article/remembering-tiananmen-square/ 英文WEB] || 2012-05-25<br>N/A || [https://docs.google.com/document/d/1QzrWcC0vcTWSuY82V8P8BJw6yU8nriFCJNVybDccV7c/ 简介]
 |-
 | 黄雀行动 || N/A || 江迅 || 简体PDF || 2012-05-25 || [https://docs.google.com/document/d/1rZ9WiQ5IzWWY_DLhEZqz7XD_-J0PbmQHEwlCsRj16ik/ 简介]
 |-
@@ -496,7 +496,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 文化大革命的起源 || The Origins of the Cultural Revolution || (英) [https://zh.wikipedia.org/wiki/%E9%A9%AC%E8%8B%A5%E5%BE%B7 麦克法夸尔] (中文名：马若德) || 简体PDF(共2卷 扫描版) || 2013-03-30 || [https://docs.google.com/document/d/1SZW5ucw0S6lTPEdfF6xyWDNvSKP0l1Vp8BtC-fv88h0/ 简介]
 |-
-| 毛泽东最后的革命 || Mao's Last Revolution || (英) [https://zh.wikipedia.org/wiki/%E9%A9%AC%E8%8B%A5%E5%BE%B7 麦克法夸尔] (中文名：马若德)<br>(瑞典) [https://zh.wikipedia.org/wiki/%E6%B2%88%E8%BF%88%E5%85%8B Michael Schoenhals] (中文名：沈迈克) || 简体PDF || 2012-12-09 || [https://docs.google.com/document/d/11NRKhtbD-FRyRqvyTbpEG0RqXv2nr3qe6vzMTtQ7y9M/ 简介]
+| 毛泽东最后的革命 || Mao's Last Revolution || (英) [https://zh.wikipedia.org/wiki/%E9%A9%AC%E8%8B%A5%E5%BE%B7 麦克法夸尔] (中文名：马若德)<br>(瑞典) [https://zh.wikipedia.org/wiki/%E6%B2%88%E8%BF%88%E5%85%8B Michael Schoenhals] (中文名：沈迈克) || 简体PDF<br>英文PDF || 2012-12-09<br>2020-01-23 || [https://docs.google.com/document/d/11NRKhtbD-FRyRqvyTbpEG0RqXv2nr3qe6vzMTtQ7y9M/ 简介]
 |-
 | 文化大革命<br>——历史真相和集体记忆 || N/A || [https://zh.wikipedia.org/wiki/%E5%AE%8B%E6%B0%B8%E6%AF%85 宋永毅] (主编) || 简体PDF || 2012-10-05 || [https://docs.google.com/document/d/1X7PovGWUNTQXvTmqxrUwNqOqshKtu7tds6mIr1lfIcg/ 简介]
 |-
@@ -506,7 +506,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 上山下乡<br>——一个美国人眼中的中国知青运动<br>''其它中文名：''<br>上山下乡<br>——中国青年从城市到农村的转移 || Up to the Mountains and Down to the Villages<br>——The Transfer of Youth from Urban to Rural China || (美) 托马斯·伯恩斯坦 || 简体PDF(扫描版) || 2015-11-09 || [https://docs.google.com/document/d/1S5CYbOEompCVAeJlKJMbSkoZVRg9w6sTlAilTEn4AwA/ 简介]
 |-
-| 失落的一代<br>——中国的上山下乡运动(1968~1980) || The Lost Generation<br>——The Rustification of Chinese Youth (1968~1980) || (法) [https://zh.wikipedia.org/wiki/%E6%BD%98%E9%B8%A3%E5%95%B8 米歇尔·博南] (中文名：潘鸣啸) || 简体PDF<br>简体PDF(扫描版)<br>简体EPUB<br>简体MOBI || 2016-12-14<br>2013-08-11<br>2014-05-18<br>2018-11-10 || [https://docs.google.com/document/d/1Is-aT8LU5QqWpbQ0xu298Paygsc-Gg39WQA8P5gnR-k/ 简介]
+| 失落的一代<br>——中国的上山下乡运动，1968~1980 || The Lost Generation<br>——The Rustification of Chinese Youth, 1968~1980 || (法) [https://zh.wikipedia.org/wiki/%E6%BD%98%E9%B8%A3%E5%95%B8 米歇尔·博南] (中文名：潘鸣啸) || 简体PDF<br>简体PDF(扫描版)<br>简体EPUB<br>简体MOBI || 2016-12-14<br>2013-08-11<br>2014-05-18<br>2018-11-10 || [https://docs.google.com/document/d/1Is-aT8LU5QqWpbQ0xu298Paygsc-Gg39WQA8P5gnR-k/ 简介]
 |-
 | 知青备忘录<br>——上山下乡运动中的生产建设兵团 || N/A || 史卫民<br>何岚 || 简体PDF(扫描版) || 2019-02-23 || [https://docs.google.com/document/d/1QW1sRgtdE5edfiFXF0tQw-OYEGHN3FbucyFrqurWUaY/ 简介]
 |-
@@ -520,7 +520,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 遇罗克之遗作与回忆 || N/A || [https://zh.wikipedia.org/wiki/%E5%BE%90%E6%99%93_(%E4%BD%9C%E5%AE%B6) 徐晓]<br>丁东<br>[https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%8B%E6%BC%81 徐友渔] || 简体PDF(扫描版) || 2013-03-16 || [https://docs.google.com/document/d/1HCcLOgDygvtTz5LuogalYJyysH6ZZLnPpmdPzuYS7-g/ 简介]
 |-
-| 牛鬼蛇神录<br>——文革囚禁中的精灵 || The Captive Spirits || (中/澳大利亚) [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%B0%8F%E5%87%AF 杨小凯] (原名：杨羲光) || 简体PDF || 2012-12-09 || [https://docs.google.com/document/d/1vuBs5eMGQPZzgbUFI4-eaHAgY-qIjrG70KyihhIuSM8/ 简介]
+| 牛鬼蛇神录<br>——文革囚禁中的精灵 || The Captive Spirits<br>——Prisoners of the Cultural Revolution || (中/澳大利亚) [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%B0%8F%E5%87%AF 杨小凯] (原名：杨羲光) || 简体PDF || 2012-12-09 || [https://docs.google.com/document/d/1vuBs5eMGQPZzgbUFI4-eaHAgY-qIjrG70KyihhIuSM8/ 简介]
 |-
 | 1966<br>——我们那一代的回忆 || N/A || [https://zh.wikipedia.org/wiki/%E5%BE%90%E5%8F%8B%E6%BC%81 徐友渔] (主编) || 简体PDF(扫描版) || 2017-08-13 || [https://docs.google.com/document/d/1-XqmXDsaUBUdSQkB8W-9iZ3Udr9RZdmu3CzOlBq1M3Y/ 简介]
 |-
@@ -544,23 +544,23 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 ==== 1.3.1.4 “大跃进”与大饥荒时期 ====
 
 {|
-! 中文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 墓碑<br>——中国六十年代大饥荒纪实 || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || 简体PDF<br>繁體PDF<br>简体EPUB || 2012-04-06<br>2013-10-20<br>2014-06-21 || [https://docs.google.com/document/d/1Aadzuqkf0qypqQ8uWTc05aYRRNNoQRXhUlEBHw2X7YY/ 简介]
+| 墓碑<br>——中国六十年代大饥荒纪实 || Tombstone<br>——The Great Chinese Famine, 1958~1962<br>''其它英文名：''<br>Tombstone<br>——An Account of Chinese Famine in the 1960s || [https://zh.wikipedia.org/wiki/%E6%A5%8A%E7%B9%BC%E7%B9%A9 杨继绳] || 简体PDF<br>繁體PDF<br>简体EPUB<br>英文EPUB || 2012-04-06<br>2013-10-20<br>2014-06-21<br>2020-01-23 || [https://docs.google.com/document/d/1Aadzuqkf0qypqQ8uWTc05aYRRNNoQRXhUlEBHw2X7YY/ 简介]
 |-
-| 人祸<br>——“大跃进”与大饥荒 || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || 简体PDF<br>简体HTML || 2013-01-13<br>2012-04-06 || [https://docs.google.com/document/d/1_gO3WkNLjyAZJ2Vs7KJNHZ8Y036z1jBCpdSJqnWCcAM/ 简介]
+| 人祸<br>——“大跃进”与大饥荒 || N/A || [https://zh.wikipedia.org/wiki/%E4%B8%81%E6%8A%92 丁抒] || 简体PDF<br>简体HTML || 2013-01-13<br>2012-04-06 || [https://docs.google.com/document/d/1_gO3WkNLjyAZJ2Vs7KJNHZ8Y036z1jBCpdSJqnWCcAM/ 简介]
 |-
-| 大跃进亲历记<br>——毛泽东秘书手记 || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%94%90_%281917%E5%B9%B4%29 李锐] (原名：李厚生) || 简体PDF(上下卷 扫描版) || 2013-05-08 || [https://docs.google.com/document/d/1UTHaeYF_hY-wPUYRBtEFNSoqxfVQ2o0edA4WPZQjFyk/ 简介]
+| 大跃进亲历记<br>——毛泽东秘书手记 || N/A || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%94%90_%281917%E5%B9%B4%29 李锐] (原名：李厚生) || 简体PDF(上下卷 扫描版) || 2013-05-08 || [https://docs.google.com/document/d/1UTHaeYF_hY-wPUYRBtEFNSoqxfVQ2o0edA4WPZQjFyk/ 简介]
 |-
-| 庐山会议实录 || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%94%90_%281917%E5%B9%B4%29 李锐] (原名：李厚生) || 简体PDF || 2012-10-05 || [https://docs.google.com/document/d/1G_IgNAhZOSHSkZQsGV4qbowD2IQYqXagS_VTqMWFJLc/ 简介]
+| 庐山会议实录 || N/A || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%94%90_%281917%E5%B9%B4%29 李锐] (原名：李厚生) || 简体PDF || 2012-10-05 || [https://docs.google.com/document/d/1G_IgNAhZOSHSkZQsGV4qbowD2IQYqXagS_VTqMWFJLc/ 简介]
 |-
-| 农村人民公社史 || 罗平汉 || 简体PDF(扫描版) || 2016-12-19 || [https://docs.google.com/document/d/10DoebY5a-Ye3G8DecI1MjQtBuHFUIHu07nYVtlXwsoI/ 简介]
+| 农村人民公社史 || N/A || 罗平汉 || 简体PDF(扫描版) || 2016-12-19 || [https://docs.google.com/document/d/10DoebY5a-Ye3G8DecI1MjQtBuHFUIHu07nYVtlXwsoI/ 简介]
 |-
-| 辉煌的幻灭<br>——人民公社警示录 || 康健 || 简体CHM<br>简体HTML || 2012-10-05<br>2012-10-06 || [https://docs.google.com/document/d/1QDzoAuKcbuM0xYjI2QyillPaCtUaJj-6Em6B0Ay3pFQ/ 简介]
+| 辉煌的幻灭<br>——人民公社警示录 || N/A || 康健 || 简体CHM<br>简体HTML || 2012-10-05<br>2012-10-06 || [https://docs.google.com/document/d/1QDzoAuKcbuM0xYjI2QyillPaCtUaJj-6Em6B0Ay3pFQ/ 简介]
 |-
-| 夹边沟记事 || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%98%BE%E6%83%A0 杨显惠] || 简体PDF(扫描版)<br>简体PDF<br>简体EPUB<br>简体MOBI || 2013-03-22<br>2016-12-14<br>2019-01-04<br>2019-01-04 || [https://docs.google.com/document/d/1u_wPghs6FODnwD3Rmikg9gYu6ZlzAM0HgXK0zgXe3bE/ 简介]
+| 夹边沟记事 || N/A || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%98%BE%E6%83%A0 杨显惠] || 简体PDF(扫描版)<br>简体PDF<br>简体EPUB<br>简体MOBI || 2013-03-22<br>2016-12-14<br>2019-01-04<br>2019-01-04 || [https://docs.google.com/document/d/1u_wPghs6FODnwD3Rmikg9gYu6ZlzAM0HgXK0zgXe3bE/ 简介]
 |-
-| 定西孤儿院纪事<br>——实录饥饿的绝境 || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%98%BE%E6%83%A0 杨显惠] || 简体PDF(扫描版)<br>简体PDF<br>简体EPUB<br>简体MOBI || 2013-03-08<br>2016-12-14<br>2019-01-04<br>2019-01-04 || [https://docs.google.com/document/d/1OCy7Uf_q7suPCpVFE-RfhfJWFvSAdmmVwWqOPLdVti8/ 简介]
+| 定西孤儿院纪事<br>——实录饥饿的绝境 || N/A || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%98%BE%E6%83%A0 杨显惠] || 简体PDF(扫描版)<br>简体PDF<br>简体EPUB<br>简体MOBI || 2013-03-08<br>2016-12-14<br>2019-01-04<br>2019-01-04 || [https://docs.google.com/document/d/1OCy7Uf_q7suPCpVFE-RfhfJWFvSAdmmVwWqOPLdVti8/ 简介]
 |}
 
 ==== 1.3.1.5 “反右”运动 ====
@@ -700,9 +700,9 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 红太阳的陨落<br>——千秋功罪毛泽东 || N/A || [https://zh.wikipedia.org/wiki/%E8%BE%9B%E5%AD%90%E9%99%B5 辛子陵] (原名：宋科) || 简体PDF<br>简体DOC || 2012-12-09<br>2012-04-05 || [https://docs.google.com/document/d/14WmFyO32fkqIngGkAvFeQaNoabMMjlHzp3ASTYNGWeM/ 简介]
 |-
-| 毛泽东时代和后毛泽东时代(1949-2009)<br>——另一种历史书写 || N/A || [https://zh.wikipedia.org/wiki/%E9%8C%A2%E7%90%86%E7%BE%A4 钱理群] || 繁體PDF(共4冊 掃描版) || 2013-05-07 || [https://docs.google.com/document/d/1DhLbJy-j8sR0GZN4OL51Nh02f6UyLUJqeRZOzqjyZbU/ 简介]
+| 毛泽东时代和后毛泽东时代(1949~2009)<br>——另一种历史书写 || N/A || [https://zh.wikipedia.org/wiki/%E9%8C%A2%E7%90%86%E7%BE%A4 钱理群] || 繁體PDF(掃描版) || 2013-05-07 || [https://docs.google.com/document/d/1DhLbJy-j8sR0GZN4OL51Nh02f6UyLUJqeRZOzqjyZbU/ 简介]
 |-
-| 毛泽东私人医生回忆录 || The Private Life of Chairman Mao || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%BF%97%E7%BB%A5 李志绥] || 简体PDF<br>繁體PDF(豎排掃描版) || 2013-08-01<br>2015-02-08 || [https://docs.google.com/document/d/1b0IgBIt2fhCVC7VSa-NXHLCissEFBqYNJuRWcOo_fOs/ 简介]
+| 毛泽东私人医生回忆录 || The Private Life of Chairman Mao || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%BF%97%E7%BB%A5 李志绥] || 简体PDF<br>繁體PDF(豎排掃描版)<br>英文EPUB || 2013-08-01<br>2015-02-08<br>2020-01-23 || [https://docs.google.com/document/d/1b0IgBIt2fhCVC7VSa-NXHLCissEFBqYNJuRWcOo_fOs/ 简介]
 |-
 | 新发现的毛泽东<br>——仆人眼中的伟人 || N/A || [https://zh.wikipedia.org/wiki/%E7%8E%8B%E8%8B%A5%E6%B0%B4 王若水] || 简体PDF || 2012-04-05 || [https://docs.google.com/document/d/19V8H00UeJtbtwDmXW0beelDKexzag0tktXqTarOXKeA/ 简介]
 |-
@@ -716,7 +716,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 晚年周恩来 || Zhou Enlai<br>——The Last Perfect Revolutionary || [https://zh.wikipedia.org/wiki/%E9%AB%98%E6%96%87%E8%B0%A6 高文谦] || 简体PDF<br>简体EPUB<br>简体MOBI || 2012-10-05<br>2013-09-14<br>2018-09-06 || [https://docs.google.com/document/d/1FvDaJmY3eNtulGeI6nHw7azr1gkvAPWy3AyLzX0Guno/ 简介]
+| 晚年周恩来 || Zhou Enlai<br>——The Last Perfect Revolutionary || [https://zh.wikipedia.org/wiki/%E9%AB%98%E6%96%87%E8%B0%A6 高文谦] || 简体PDF<br>简体EPUB<br>简体MOBI<br>英文PDF || 2012-10-05<br>2013-09-14<br>2018-09-06<br>2020-01-23 || [https://docs.google.com/document/d/1FvDaJmY3eNtulGeI6nHw7azr1gkvAPWy3AyLzX0Guno/ 简介]
 |-
 | 周恩来与上海灭门血案 || N/A || 吴基民 || 简体PDF || 2018-09-06 || [https://docs.google.com/document/d/1PDXoD-IQpieKBUqRTIuIPNhVwCkAfimOwkOzpP6sk8s/ 简介]
 |}
@@ -728,7 +728,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 中南海日记<br>——中共两代王储的陨落 || N/A || [https://zh.wikipedia.org/wiki/%E5%90%B4%E7%A8%BC%E7%A5%A5 吴稼祥] || 繁體PDF(掃描版) || 2012-12-09 || [https://docs.google.com/document/d/1ylNmtMosZpA_BriJ3o9HwSiswzEtI0hadeXjO9xAXrw/ 简介]
 |-
-| 邓小平时代 || Deng Xiaoping and the Transformation of China || (美) [https://zh.wikipedia.org/wiki/%E5%82%85%E9%AB%98%E4%B9%89 傅高义] || 繁體PDF || 2013-04-14 || [https://docs.google.com/document/d/1v0Z5OVLlD6PM0htDGfgtwpQDlBZpo2gY_rJ6Cv-UmGo/ 简介]
+| 邓小平时代 || Deng Xiaoping and the Transformation of China || (美) [https://zh.wikipedia.org/wiki/%E5%82%85%E9%AB%98%E4%B9%89 Ezra Vogel] (中文名：傅高义) || 繁體PDF(香港版 無刪節)<br>英文EPUB || 2013-04-14<br>2020-01-23 || [https://docs.google.com/document/d/1v0Z5OVLlD6PM0htDGfgtwpQDlBZpo2gY_rJ6Cv-UmGo/ 简介]
 |}
 
 ===== 1.3.2.1.5 胡耀邦 =====
@@ -750,7 +750,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 改革历程<br>——赵紫阳回忆录<br>''其它中文名：''<br>国家的囚徒<br>——赵紫阳的秘密录音 || Prisoner of the State<br>——The Secret Journal of Premier Zhao Ziyang || [https://zh.wikipedia.org/wiki/%E8%B5%B5%E7%B4%AB%E9%98%B3 赵紫阳] || 简体PDF || 2012-04-05 || [https://docs.google.com/document/d/1zU_HC6bEBQtDNioAMTyj8-5ks3uV2EQ3JgYDWoeg6Wc/ 简介]
+| 改革历程<br>——赵紫阳回忆录<br>''其它中文名：''<br>国家的囚徒<br>——赵紫阳的秘密录音 || Prisoner of the State<br>——The Secret Journal of Premier Zhao Ziyang || [https://zh.wikipedia.org/wiki/%E8%B5%B5%E7%B4%AB%E9%98%B3 赵紫阳] || 简体PDF<br>英文PDF || 2012-04-05<br>2020-01-23 || [https://docs.google.com/document/d/1zU_HC6bEBQtDNioAMTyj8-5ks3uV2EQ3JgYDWoeg6Wc/ 简介]
 |-
 | 赵紫阳还说过什么？<br>——杜导正日记 || N/A || [https://zh.wikipedia.org/wiki/%E6%9D%9C%E5%AF%BC%E6%AD%A3 杜导正] || 简体PDF || 2012-05-25 || [https://docs.google.com/document/d/1e7uIGIc67lwV6oMh0VSIrq8J4i4-6iB2LNM89O1xmu4/ 简介]
 |}
@@ -912,9 +912,9 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 西藏生与死<br>——雪域的民族主义 || Tibet<br>——Survival in Question || (法) [https://fr.wikipedia.org/wiki/Pierre-Antoine_Donnet 董尼德] || 繁體PDF(竪排掃描版) || 2012-12-31 || [https://docs.google.com/document/d/1irYHZEUM9j5pD4UcA2zVrMyQTybiaoD7_5o33mtt6Oc/ 简介]
 |-
-| 流亡中的自在<br>——达赖喇嘛自传 || Freedom in Exile<br>——The Autobiography of the Dalai Lama || [https://zh.wikipedia.org/wiki/%E7%AC%AC%E5%8D%81%E5%9B%9B%E4%B8%96%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B 十四世达赖喇嘛] (原名：丹增嘉措) || 简体PDF<br>简体EPUB<br>简体MOBI || 2017-03-26<br>2014-03-29<br>2018-11-10 || [https://docs.google.com/document/d/12wvEDUClMfpVumuFsccu6uH5Z2Kc3baBrEH1e_hZgk0/ 简介]
+| 流亡中的自在<br>——达赖喇嘛自传 || Freedom in Exile<br>——The Autobiography of the Dalai Lama || [https://zh.wikipedia.org/wiki/%E7%AC%AC%E5%8D%81%E5%9B%9B%E4%B8%96%E8%BE%BE%E8%B5%96%E5%96%87%E5%98%9B 十四世达赖喇嘛] (原名：丹增嘉措) || 简体PDF<br>简体EPUB<br>简体MOBI<br>英文PDF(扫描版) || 2017-03-26<br>2014-03-29<br>2018-11-10<br>2020-01-22 || [https://docs.google.com/document/d/12wvEDUClMfpVumuFsccu6uH5Z2Kc3baBrEH1e_hZgk0/ 简介]
 |-
-| 西藏笔记 || Notes on Tibet || [https://zh.wikipedia.org/wiki/%E5%94%AF%E8%89%B2 唯色] || 简体PDF(扫描版) || 2013-05-19 || [https://docs.google.com/document/d/1iZBiwBFaVZnS2KsR1WL93lXUB_PzT80_PyqP8vP_fMg/ 简介]
+| 西藏笔记<br>''其它中文名：''<br>名为西藏的诗 || Notes on Tibet || [https://zh.wikipedia.org/wiki/%E5%94%AF%E8%89%B2 唯色] (全名：茨仁唯色) || 简体PDF(扫描版) || 2013-05-19 || [https://docs.google.com/document/d/1iZBiwBFaVZnS2KsR1WL93lXUB_PzT80_PyqP8vP_fMg/ 简介]
 |-
 | 东突厥斯坦独立运动<br>——1930年代至1940年代 || N/A || 王柯 || 简体EPUB<br>简体MOBI || 2014-03-28<br>2014-03-28 || [https://docs.google.com/document/d/1rQbcNwUp8LweqE11QeqOzHIJ5KLuUdXrxoW1upeTtB0/ 简介]
 |}
@@ -1078,7 +1078,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 无处可藏<br>——斯诺登、美国国安局与全球监控 || No Place to Hide<br>——Edward Snowden, the NSA, and the U.S. Surveillance State || (美) [https://zh.wikipedia.org/wiki/%E8%91%9B%E5%80%AB%C2%B7%E8%91%9B%E6%9E%97%E8%8F%AF%E5%BE%B7 格伦·格林沃尔德] || 简体EPUB || 2016-12-20 || [https://docs.google.com/document/d/1ihNl7GsLdf8FbeQQHhNPNhZMXpuB-Vk-wpoEspCb34k/ 简介]
 |-
-| 永久记录<br>''其它中文名：''<br>永久档案 || Permanent Record || (美) [https://zh.wikipedia.org/wiki/%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E6%96%AF%E8%AF%BA%E7%99%BB 爱德华·斯诺登] || 英文PDF || 2019-10-30 || [https://docs.google.com/document/d/1Fp_8gv2bx0Cu5qlOLEcud8uJkiGTIt6jVRlAgIT8rhA/ 简介]
+| 永久记录<br>''其它中文名：''<br>永久档案 || Permanent Record || (美) [https://zh.wikipedia.org/wiki/%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E6%96%AF%E8%AF%BA%E7%99%BB 爱德华·斯诺登] || 繁體EPUB<br>英文PDF || 2019-12-02<br>2019-10-30 || [https://docs.google.com/document/d/1Fp_8gv2bx0Cu5qlOLEcud8uJkiGTIt6jVRlAgIT8rhA/ 简介]
 |-
 | 帷幕<br>——美国中央情报局的秘密战争，1981~1987 || Veil<br>——The Secret Wars of the CIA, 1981~1987 || (美) [https://zh.wikipedia.org/wiki/%E9%B2%8D%E5%8B%83%C2%B7%E4%BC%8D%E5%BE%B7%E6%B2%83%E5%BE%B7 鲍勃·伍德沃德] || 简体PDF(扫描版) || 2017-02-18 || [https://docs.google.com/document/d/1V1JvrUJRczYlY3boDTg9UPI31E9KYTJLVUDJnTmAOLU/ 简介]
 |-
@@ -1274,15 +1274,15 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 黄长烨回忆录 || Hwang Jang-yop Memoir || (韩) [https://zh.wikipedia.org/wiki/%E9%BB%84%E9%95%BF%E7%83%A8 黄长烨] || 简体PDF<br>简体TXT || 2013-02-19<br>2016-05-01 || [https://docs.google.com/document/d/1Xj4d6iemXIzoGlhp8hL0k_U9b1keDGcVvdowAC_Q5wQ/ 简介]
 |-
-| 我们最幸福<br>——北韩人民的真实生活<br>''其它中文名：''<br>无可羡慕<br>——朝鲜人的普通生活 || Nothing to Envy<br>——Ordinary Lives in North Korea || (美) [https://en.wikipedia.org/wiki/Barbara_Demick Barbara Demick] || 简体PDF<br>简体EPUB || 2013-02-19<br>2013-09-14 || [https://docs.google.com/document/d/1SYQOHUWRT41fZDF3gLGMA6ZxSs1yXmaDrpHDhxYGHsY/ 简介]
+| 我们最幸福<br>——北韩人民的真实生活<br>''其它中文名：''<br>无可羡慕<br>——朝鲜人的普通生活 || Nothing to Envy<br>——Ordinary Lives in North Korea || (美) [https://en.wikipedia.org/wiki/Barbara_Demick 芭芭拉·德米克] || 简体PDF<br>简体EPUB<br>英文EPUB || 2013-02-19<br>2013-09-14<br>2020-01-22 || [https://docs.google.com/document/d/1SYQOHUWRT41fZDF3gLGMA6ZxSs1yXmaDrpHDhxYGHsY/ 简介]
 |-
-| 平壤水族馆<br>——我在北韩古拉格的十年 || The Aquariums of Pyongyang || (韩) [https://zh.wikipedia.org/wiki/%E5%A7%9C%E5%93%B2%E7%85%A5 姜哲焕]<br>(法) [https://en.wikipedia.org/wiki/Pierre_Rigoulot Pierre Rigoulot] || 繁體EPUB || 2014-05-04 || [https://docs.google.com/document/d/1LyezT03akymY9rMSwarPJFpgfnHUUKCvw6wP5IXKo6w/ 简介]
+| 平壤水族馆<br>——我在北韩古拉格的十年 || The Aquariums of Pyongyang<br>——Ten Years in the North Korean Gulag || (韩) [https://zh.wikipedia.org/wiki/%E5%A7%9C%E5%93%B2%E7%85%A5 姜哲焕]<br>(法) [https://en.wikipedia.org/wiki/Pierre_Rigoulot 皮耶·李古乐] || 繁體EPUB<br>英文EPUB || 2014-05-04<br>2020-01-22 || [https://docs.google.com/document/d/1LyezT03akymY9rMSwarPJFpgfnHUUKCvw6wP5IXKo6w/ 简介]
 |-
-| 这就是天堂！<br>——我的北韩童年 || This is Paradise!<br>——My North Korean Childhood || (韩) 姜赫<br>Philippe Grangereau || 繁體EPUB || 2014-06-22 || [https://docs.google.com/document/d/1dHONjwEM3WRPxZmr6n8eA7BDdfR_ibK508pMnuP-RBI/ 简介]
+| 逃出14号劳改营<br>——从人间炼狱到自由世界的脱北者传奇 || Escape from Camp 14<br>——One Man's Remarkable Odyssey From North Korea to Freedom in the West || (韩) [https://zh.wikipedia.org/wiki/%E7%94%B3%E4%B8%9C%E8%B5%AB 申东赫]<br>(美) [https://en.wikipedia.org/wiki/Blaine_Harden 布莱恩·哈登] || 繁體EPUB<br>英文PDF || 2016-07-18<br>2020-01-22 || [https://docs.google.com/document/d/1oIlmArtX-de_K03On8r76aVNfDk2QzJ23uPYcMw0NJ4/ 简介]
 |-
-| 平壤<br>——朝鲜之旅 || Pyongyang<br>——A Journey in North Korea || (加) [https://en.wikipedia.org/wiki/Guy_Delisle Guy Delisle] || 简体PDF(漫画 扫描版) || 2013-03-30 || [https://docs.google.com/document/d/1J0mrJG8L3JO5Pw4TLAd0Rc00QWJ3ICEknsP8Udquqgc/ 简介]
+| 这就是天堂！<br>——我的北韩童年 || This is Paradise!<br>——My North Korean Childhood || (韩) 姜赫<br>(法) 菲利普·格兰杰罗 || 繁體EPUB || 2014-06-22 || [https://docs.google.com/document/d/1dHONjwEM3WRPxZmr6n8eA7BDdfR_ibK508pMnuP-RBI/ 简介]
 |-
-| 逃出14号劳改营<br>——从人间炼狱到自由世界的脱北者传奇 || Escape from Camp 14<br>——One Man's Remarkable Odyssey From North Korea to Freedom in the West || (韩) [https://zh.wikipedia.org/wiki/%E7%94%B3%E4%B8%9C%E8%B5%AB 申东赫] || 繁體EPUB || 2016-07-18 || [https://docs.google.com/document/d/1oIlmArtX-de_K03On8r76aVNfDk2QzJ23uPYcMw0NJ4/ 简介]
+| 平壤<br>——朝鲜之旅 || Pyongyang<br>——A Journey in North Korea || (加) [https://en.wikipedia.org/wiki/Guy_Delisle 盖·德利斯勒] || 简体PDF(漫画 扫描版) || 2013-03-30 || [https://docs.google.com/document/d/1J0mrJG8L3JO5Pw4TLAd0Rc00QWJ3ICEknsP8Udquqgc/ 简介]
 |}
 
 === 1.9.2 柬埔寨 ===
@@ -1330,7 +1330,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 流氓的归来 || The Hooligan's Return || (罗) [https://en.wikipedia.org/wiki/Norman_Manea 诺曼·马内阿] || 简体PDF(扫描版) || 2014-05-04 || [https://docs.google.com/document/d/1u7Fes8AhnuXFyct3gIKZ3hMs0Niktq9mTZwkgSae634/ 简介]
+| 流氓的归来 || The Hooligan's Return || (罗) [https://en.wikipedia.org/wiki/Norman_Manea 诺曼·马内阿] || 简体PDF(扫描版)<br>英文MOBI || 2014-05-04<br>2020-01-22 || [https://docs.google.com/document/d/1u7Fes8AhnuXFyct3gIKZ3hMs0Niktq9mTZwkgSae634/ 简介]
 |-
 | 论小丑<br>——独裁者和艺术家 || On Clowns<br>——The Dictator and the Artist || (罗) [https://en.wikipedia.org/wiki/Norman_Manea 诺曼·马内阿] || 简体PDF(扫描版) || 2014-05-04 || [https://docs.google.com/document/d/15PKxzcvOOMH_eO0SLcDl3bdqemNY0_fo_Mr7T9Hgtzs/ 简介]
 |-
@@ -1370,23 +1370,23 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 学会提问<br>——批判性思维指南 || Asking the Right Questions<br>——A Guide to Critical Thinking || (美) 尼尔·布朗<br>(美) 斯图尔特·基利 || 简体PDF(第10版 扫描版)<br>简体PDF(第7版)<br>简体EPUB(第7版)<br>简体MOBI(第7版)<br>英文PDF(第8版) || 2019-08-21<br>2012-01-20<br>2013-09-13<br>2015-11-14<br>2012-01-20 || [https://docs.google.com/document/d/14xEG3Uot3-uMML1ZQc7cMbNTxzpllxFQqcwr_n6FgQk/ 简介]
+| 学会提问<br>——批判性思维指南 || Asking the Right Questions<br>——A Guide to Critical Thinking || (美) 尼尔·布朗<br>(美) 斯图尔特·基利 || 简体PDF(第10版 扫描版)<br>简体PDF(第7版)<br>简体EPUB(第7版)<br>简体MOBI(第7版)<br>英文PDF(第11版)<br>英文PDF(第8版) || 2019-08-21<br>2012-01-20<br>2013-09-13<br>2015-11-14<br>2019-12-03<br>2012-01-20 || [https://docs.google.com/document/d/14xEG3Uot3-uMML1ZQc7cMbNTxzpllxFQqcwr_n6FgQk/ 简介]
 |-
 | 影响力 || Influence<br>——The Psychology of Persuasion || (美) [https://en.wikipedia.org/wiki/Robert_Cialdini 罗伯特·西奥迪尼] || 简体PDF<br>简体PDF(扫描版)<br>简体EPUB<br>简体MOBI<br>英文TXT || 2013-02-25<br>2012-12-29<br>2013-09-13<br>2014-02-23<br>2012-12-29 || [https://docs.google.com/document/d/1PmNGkvoqtPWPwV63h5KMiQQWgGU-Mo3Zf4aFzX16om4/ 简介]
 |-
 | 思考，快与慢<br>''其它中文名：''<br>快思慢想 || Thinking, Fast and Slow || (以色列/美) [https://zh.wikipedia.org/wiki/%E4%B8%B9%E5%B0%BC%E5%B0%94%C2%B7%E5%8D%A1%E5%86%85%E6%9B%BC 丹尼尔·卡尼曼] || 简体EPUB<br>简体MOBI<br>简体TXT || 2015-11-10<br>2014-07-15<br>2016-05-15 || [https://docs.google.com/document/d/1qZ7DGoMepUsoZPPHMgdR2dd2FOLKsvSEYO1vmio0894/ 简介]
 |-
-| 超越智商<br>——为什么聪明人也会做蠢事 || What Intelligence Tests Miss<br>——The Psychology of Rational Thought || (加) [https://en.wikipedia.org/wiki/Keith_Stanovich 基思·斯坦诺维奇] || 简体EPUB<br>简体MOBI || 2019-09-03<br>2019-09-03 || [https://docs.google.com/document/d/13j-DGxvZY_C083_nF8ZveaE5UDWzeTI9T3CbTpSlAEo/ 简介]
+| 超越智商<br>——为什么聪明人也会做蠢事 || What Intelligence Tests Miss<br>——The Psychology of Rational Thought || (加) [https://en.wikipedia.org/wiki/Keith_Stanovich 基思·斯坦诺维奇] || 简体EPUB<br>简体MOBI<br>英文PDF || 2019-09-03<br>2019-09-03<br>2019-12-03 || [https://docs.google.com/document/d/13j-DGxvZY_C083_nF8ZveaE5UDWzeTI9T3CbTpSlAEo/ 简介]
 |-
 | 无从选择<br>——为何多即是少<br>''其它中文名：''<br>选择的悖论<br>——用心理学解读人的经济行为 || The Paradox of Choice<br>——Why More Is Less || (美) [https://en.wikipedia.org/wiki/Barry_Schwartz_%28psychologist%29 巴里·施瓦茨] || 简体PDF(大字版)<br>简体PDF(扫描版)<br>英文PDF || 2019-09-03<br>2012-12-29<br>2012-12-29 || [https://docs.google.com/document/d/1jJA46kpraXr252iQEWXmxGyQpUd4yju8qcHu7kR38z4/ 简介]
 |-
 | 清醒思考的艺术（上篇）、明智行动的艺术（下篇） || The Art of Thinking Clearly || (瑞士) [https://en.wikipedia.org/wiki/Rolf_Dobelli 罗尔夫·多贝里] || 简体PDF(上篇 扫描版)<br>简体EPUB (上篇 插图版)<br>简体EPUB (下篇 插图版)<br>简体MOBI (下篇 插图版)<br>英文PDF<br>英文EPUB || 2014-07-15<br>2015-12-01<br>2019-04-20<br>2019-04-20<br>2015-11-13<br>2015-11-13 || [https://docs.google.com/document/d/12t5w1oCrz8ZZSxf276n94AByAiCjfmQGXRooihPkbs4/ 简介]
 |-
+| 浅薄<br>——互联网如何毒化我们的大脑 || The Shallows<br>——What the Internet Is Doing to Our Brains || (美) [https://en.wikipedia.org/wiki/Nicholas_G._Carr 尼古拉斯·卡尔] || 简体PDF<br>简体MOBI<br>英文PDF || 2015-02-23<br>2015-11-14<br>2019-12-03 || [https://docs.google.com/document/d/1v1ftIUSp6DUvEzTKFn9ICx5FHCtwJAG3gjPKlFq30sI/ 简介]
+|-
 | 怪诞行为学1<br>——可预测的非理性 || Predictably Irrational<br>——The Hidden Forces That Shape Our Decisions || (美) [https://zh.wikipedia.org/wiki/%E4%B8%B9%C2%B7%E8%89%BE%E7%91%9E%E9%87%8C 丹·艾瑞里] || 简体PDF(扫描版)<br>简体EPUB || 2014-07-27<br>2015-01-07 || [https://docs.google.com/document/d/19IYxkitIsghY_CPO0R5OCANOLOVyG4-Kc7CGLfkhStc/ 简介]
 |-
 | 怪诞行为学2<br>——非理性的积极力量 || The Upside of Irrationality<br>——The Unexpected Benefits of Defying Logic at Work and at Home || (美) [https://zh.wikipedia.org/wiki/%E4%B8%B9%C2%B7%E8%89%BE%E7%91%9E%E9%87%8C 丹·艾瑞里] || 简体EPUB || 2015-01-07 || [https://docs.google.com/document/d/1g5Vzvyr1huLntBjocLjOSwMn7N8cVr8IwIi75uD7y9Y/ 简介]
-|-
-| 浅薄<br>——互联网如何毒化我们的大脑 || The Shallows<br>——What the Internet Is Doing to Our Brains || (美) [https://en.wikipedia.org/wiki/Nicholas_G._Carr 尼古拉斯·卡尔] || 简体PDF<br>简体MOBI || 2015-02-23<br>2015-11-14 || [https://docs.google.com/document/d/1v1ftIUSp6DUvEzTKFn9ICx5FHCtwJAG3gjPKlFq30sI/ 简介]
 |-
 | 心流<br>——最优体验心理学 || Flow<br>——The Psychology of Optimal Experience || (意/美) [https://en.wikipedia.org/wiki/Mihaly_Csikszentmihalyi 米哈里·契克森米哈伊] || 简体EPUB<br>简体MOBI || 2019-08-19<br>2019-08-19 || [https://docs.google.com/document/d/14kE-1g6W_nyRNHMqV2D5wT0QDNvwb0Nh3WBvswOtz9k/ 简介]
 |-
@@ -1426,9 +1426,9 @@ BT Sync 密钥：BNZ6DOA6W577O6GUNH7C3MY6DWC6FTDQB （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 社会性动物 || The Social Animal || (美) [https://en.wikipedia.org/wiki/Elliot_Aronson 埃利奥特·阿伦森] || 简体PDF(第8版)<br>简体EPUB(第8版)<br>简体MOBI(第8版)<br>简体TXT(第8版) || 2014-01-09<br>2019-08-21<br>2014-02-23<br>2016-05-01 || [https://docs.google.com/document/d/1--Nf8FL9_erC8hvxkiMRNcWrrFuZI-a-jrPhUbLVs-8/ 简介]
+| 社会性动物 || The Social Animal || (美) [https://en.wikipedia.org/wiki/Elliot_Aronson 埃利奥特·阿伦森] || 简体PDF(第8版)<br>简体EPUB(第8版)<br>简体MOBI(第8版)<br>简体TXT(第8版)<br>英文PDF(第10版) || 2014-01-09<br>2019-08-21<br>2014-02-23<br>2016-05-01<br>2019-12-03 || [https://docs.google.com/document/d/1--Nf8FL9_erC8hvxkiMRNcWrrFuZI-a-jrPhUbLVs-8/ 简介]
 |-
-| 乌合之众<br>——大众心理研究 || The Crowd<br>——A Study of the Popular Mind || (法) [https://zh.wikipedia.org/wiki/%E5%8F%A4%E6%96%AF%E5%A1%94%E5%A4%AB%C2%B7%E5%8B%92%E5%BA%9E 古斯塔夫·勒庞] || 简体PDF(扫描版)<br>简体MOBI<br>简体TXT || 2019-07-16<br>2014-02-23<br>2016-05-16 || [https://docs.google.com/document/d/1DFBGB6tMhSQvFRmQFDip2MCSR5lVjW97S_3hKtlBdgc/ 简介]
+| 乌合之众<br>——大众心理研究 || The Crowd<br>——A Study of the Popular Mind || (法) [https://zh.wikipedia.org/wiki/%E5%8F%A4%E6%96%AF%E5%A1%94%E5%A4%AB%C2%B7%E5%8B%92%E5%BA%9E 古斯塔夫·勒庞] || 简体PDF(扫描版)<br>简体MOBI<br>简体TXT<br>英文PDF || 2019-07-16<br>2014-02-23<br>2016-05-16<br>2019-12-03 || [https://docs.google.com/document/d/1DFBGB6tMhSQvFRmQFDip2MCSR5lVjW97S_3hKtlBdgc/ 简介]
 |-
 | 路西法效应<br>——好人是如何变成恶魔的 || The Lucifer Effect<br>——Understanding How Good People Turn Evil || (美) [https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%88%A9%E6%99%AE%C2%B7%E6%B4%A5%E5%B7%B4%E5%A4%9A 菲利普·津巴多] || 简体PDF(大字版)<br>简体EPUB<br>繁體PDF(掃描版) || 2018-09-10<br>2013-09-13<br>2013-02-05 || [https://docs.google.com/document/d/1thzFhbtzJTJnHst4rQwyUQnV5o3vjL8mr2QbR7zr54s/ 简介]
 |}
@@ -1514,17 +1514,17 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 全球通史<br>——从史前史到21世纪 || A Global History<br>——From Prehistory to the 21st Century || (加) [https://zh.wikipedia.org/wiki/L%C2%B7S%C2%B7%E6%96%AF%E5%A1%94%E5%A4%AB%E9%87%8C%E9%98%BF%E8%AF%BA%E6%96%AF 斯塔夫里阿诺斯] || 简体PDF(上下册)<br>简体PDF(大字版)<br>简体CHM<br>英文PDF(扫描版) || 2013-02-27<br>2016-12-16<br>2013-02-07<br>2017-02-22 || [https://docs.google.com/document/d/1IsWfgRo7wqYqz3qt0WTYyM0Iu74aYlC7wo_Gu2LhCao/ 简介]
+| 全球通史<br>——从史前史到21世纪 || A Global History<br>——From Prehistory to the 21st Century || (加) [https://zh.wikipedia.org/wiki/L%C2%B7S%C2%B7%E6%96%AF%E5%A1%94%E5%A4%AB%E9%87%8C%E9%98%BF%E8%AF%BA%E6%96%AF 斯塔夫里阿诺斯] || 简体PDF(第7版 大字版)<br>简体PDF(第4版 上下册)<br>简体CHM(第4版)<br>英文PDF(第5版 扫描版) || 2016-12-16<br>2013-02-27<br>2013-02-07<br>2017-02-22 || [https://docs.google.com/document/d/1IsWfgRo7wqYqz3qt0WTYyM0Iu74aYlC7wo_Gu2LhCao/ 简介]
 |-
 | 世界文明史<br>''其它中文名：''<br>文明的故事 || The Story of Civilization || (美) [https://zh.wikipedia.org/wiki/%E5%A8%81%E5%B0%94%C2%B7%E6%9D%9C%E5%85%B0%E7%89%B9 威尔·杜兰特]<br>(美) [https://en.wikipedia.org/wiki/Ariel_Durant 阿里尔·杜兰特] || 简体PDF(扫描版) || 2017-05-03 || [https://docs.google.com/document/d/1fSSHil_HgugTfa9bxBnkNd9xHlk_4MX79rbNOCHsmLM/ 简介]
 |-
 | 枪炮、病菌与钢铁<br>——人类社会的命运 || Guns, Germs, and Steel<br>——The Fates of Human Societies || (美) [https://zh.wikipedia.org/wiki/%E8%B3%88%E5%BE%B7%C2%B7%E6%88%B4%E8%92%99 贾雷德·戴蒙德] || 简体EPUB<br>简体PDF(大字版)<br>简体CHM<br>简体MOBI<br>英文PDF || 2013-09-13<br>2013-04-20<br>2013-02-05<br>2015-05-11<br>2013-02-05 || [https://docs.google.com/document/d/1nhGqmj7LQ6_hFZ4ef9dlQyrqtbqh-rR8ecGe5f0dg-s/ 简介]
 |-
-| 人类简史<br>——从动物到上帝 || Sapiens<br>——A Brief History of Humankind || (以色列) [https://en.wikipedia.org/wiki/Yuval_Noah_Harari 尤瓦尔·赫拉利] || 简体EPUB<br>简体MOBI || 2017-08-14<br>2018-08-08 || [https://docs.google.com/document/d/1QZj7FuR4uoIi4VVTWFCJsu2C6JGCtRVI0VNyjDD6ENY/ 简介]
+| 人类简史<br>——从动物到上帝 || Sapiens<br>——A Brief History of Humankind || (以色列) [https://en.wikipedia.org/wiki/Yuval_Noah_Harari 尤瓦尔·赫拉利] || 简体EPUB<br>简体MOBI<br>英文PDF(大字版) || 2017-08-14<br>2018-08-08<br>2020-01-18 || [https://docs.google.com/document/d/1QZj7FuR4uoIi4VVTWFCJsu2C6JGCtRVI0VNyjDD6ENY/ 简介]
 |-
-| 崩溃<br>——社会如何选择成败兴亡 || Collapse<br>——How Societise Choose to Fail or Succeed || (美) [https://zh.wikipedia.org/wiki/%E8%B3%88%E5%BE%B7%C2%B7%E6%88%B4%E8%92%99 贾雷德·戴蒙德] || 简体PDF(大字版)<br>简体MOBI<br>简体PDF(扫描版) || 2013-04-20<br>2015-05-11<br>2017-03-26 || [https://docs.google.com/document/d/1UCAFKRaezvt8bh1Mgmzt4gbFAUigMXY3ikPkqn_qhkc/ 简介]
+| 崩溃<br>——社会如何选择成败兴亡 || Collapse<br>——How Societies Choose to Fail or Succeed || (美) [https://zh.wikipedia.org/wiki/%E8%B3%88%E5%BE%B7%C2%B7%E6%88%B4%E8%92%99 贾雷德·戴蒙德] || 简体PDF(大字版)<br>简体MOBI<br>简体PDF(扫描版)<br>英文EPUB || 2013-04-20<br>2015-05-11<br>2017-03-26<br>2020-01-18 || [https://docs.google.com/document/d/1UCAFKRaezvt8bh1Mgmzt4gbFAUigMXY3ikPkqn_qhkc/ 简介]
 |-
-| 大国的兴衰<br>——1500年~2000年的经济变迁与军事冲突 || The Rise and Fall of the Great Powers<br>——Economic Change and Military Conflict from 1500~2000 || (英) [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E8%82%AF%E5%B0%BC%E8%BF%AA_%28%E5%8E%86%E5%8F%B2%E5%AD%A6%E5%AE%B6%29 保罗·肯尼迪] || 简体EPUB<br>简体PDF(大字版)<br>简体PDF(扫描版)<br>简体PDF || 2017-05-06<br>2016-12-16<br>2015-11-18<br>2014-06-22 || [https://docs.google.com/document/d/1GOQNzBNRQEDbKX6IleYoPfyafXKXt5FxhIM1XRhyIw4/ 简介]
+| 大国的兴衰<br>——1500年~2000年的经济变迁与军事冲突 || The Rise and Fall of the Great Powers<br>——Economic Change and Military Conflict from 1500 to 2000 || (英) [https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E8%82%AF%E5%B0%BC%E8%BF%AA_%28%E5%8E%86%E5%8F%B2%E5%AD%A6%E5%AE%B6%29 保罗·肯尼迪] || 简体EPUB<br>简体PDF(大字版)<br>简体PDF(扫描版)<br>简体PDF<br>英文PDF(扫描版) || 2017-05-06<br>2016-12-16<br>2015-11-18<br>2014-06-22<br>2020-01-18 || [https://docs.google.com/document/d/1GOQNzBNRQEDbKX6IleYoPfyafXKXt5FxhIM1XRhyIw4/ 简介]
 |-
 | 年代四部曲<br><br>''包括如下：''<br>第1卷 革命的年代 (1789~1848)<br>第2卷 资本的年代 (1848~1875)<br>第3卷 帝国的年代 (1875~1914)<br>第4卷 极端的年代 (1914~1991) || The Age of Revolution (1789~1848)<br>The Age of Capital (1848~1875)<br>The Age of Empire (1875~1914)<br>The Age of Extremes (1914~1991) || (英) [https://zh.wikipedia.org/wiki/%E8%89%BE%E7%91%9E%E5%85%8B%C2%B7%E9%9C%8D%E5%B8%83%E6%96%AF%E9%82%A6 埃里克·霍布斯鲍姆] || 简体PDF(扫描版) || 2018-08-07 || [https://docs.google.com/document/d/14iR6SmWIZtU_6ui-VT3_7ihGtP57s4ofKN-PuYR4wUg/ 简介]
 |}
@@ -1534,17 +1534,17 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 你一定爱读的极简欧洲史<br>——为什么欧洲对现代文明的影响这么深 || The Shortest History of Europe || (澳) [https://en.wikipedia.org/wiki/John_Hirst_%28historian%29 约翰·赫斯特] || 简体PDF(扫描版)<br>简体MOBI || 2014-07-28<br>2015-05-11 || [https://docs.google.com/document/d/1-JMxvXR9FvGEsEGOpuxpI42pfICjwC95c05FfDHMmNo/ 简介]
+| 你一定爱读的极简欧洲史<br>——为什么欧洲对现代文明的影响这么深 || The Shortest History of Europe || (澳大利亚) [https://en.wikipedia.org/wiki/John_Hirst_%28historian%29 约翰·赫斯特] || 简体PDF(扫描版)<br>简体MOBI<br>英文EPUB || 2014-07-28<br>2015-05-11<br>2020-01-18 || [https://docs.google.com/document/d/1-JMxvXR9FvGEsEGOpuxpI42pfICjwC95c05FfDHMmNo/ 简介]
 |-
-| 战后欧洲史 || Postwar<br>——A History of Europe Since 1945 || (美) [https://zh.wikipedia.org/wiki/%E6%89%98%E5%B0%BC%C2%B7%E6%9C%B1%E7%89%B9 托尼·朱特] || 简体PDF(扫描版) || 2014-08-11 || [https://docs.google.com/document/d/1lnpqxcQe42K-sVhD9a4wr9-LlQLPQcf4tvRQLydgJ7g/ 简介]
+| 战后欧洲史 || Postwar<br>——A History of Europe Since 1945 || (英) [https://zh.wikipedia.org/wiki/%E6%89%98%E5%B0%BC%C2%B7%E6%9C%B1%E7%89%B9 托尼·朱特] || 简体PDF(共2卷 扫描版)<br>英文EPUB || 2014-08-11<br>2020-01-22 || [https://docs.google.com/document/d/1lnpqxcQe42K-sVhD9a4wr9-LlQLPQcf4tvRQLydgJ7g/ 简介]
 |-
 | 欧洲文明史<br>——自罗马帝国败落起到法国革命 || The History of Civilization in Europe || (法) [https://zh.wikipedia.org/wiki/%E5%BC%97%E6%9C%97%E7%B4%A2%E7%93%A6%C2%B7%E5%9F%BA%E4%BD%90 弗朗索瓦·基佐] || 简体PDF(扫描版) || 2018-08-08 || [https://docs.google.com/document/d/1Zlf4Ell_ctf4Wlh0s9ZPWgQbyLSglZ7qslDR7IL_57Y/ 简介]
 |-
-| 欧洲中世纪史 || Medieval Europe<br>——A Short History || (美) [https://en.wikipedia.org/wiki/Judith_M._Bennett 朱迪斯·M·本内特]<br>(美) [https://en.wikipedia.org/wiki/C._Warren_Hollister C·沃伦·霍利斯特] || 简体PDF(扫描版) || 2017-05-04 || [https://docs.google.com/document/d/1Z5LP2rrfwPSi4wlw9C4UjEt9xefdzDkFj5DXo3az6YU/ 简介]
+| 欧洲中世纪史 || Medieval Europe<br>——A Short History || (美) [https://en.wikipedia.org/wiki/Judith_M._Bennett 朱迪斯·本内特]<br>(美) [https://en.wikipedia.org/wiki/C._Warren_Hollister 沃伦·霍利斯特] || 简体PDF(第10版 扫描版) || 2017-05-04 || [https://docs.google.com/document/d/1Z5LP2rrfwPSi4wlw9C4UjEt9xefdzDkFj5DXo3az6YU/ 简介]
 |-
 | 夹缝中的六国<br>——维也纳会议以来的中东欧历史 || The Lands between<br>——A History of East-Central Europe Since the Congress of Vienna || (英) [https://en.wikipedia.org/wiki/Alan_Palmer 艾伦·帕尔默] || 简体PDF(扫描版) || 2017-08-14 || [https://docs.google.com/document/d/1zsWgQOM0rB6K_XI27b2yFb3yaYy3l5gKoblGWGyDf68/ 简介]
 |-
-| 牛津通识读本：十字军 || The Crusades || (英) [https://et.wikipedia.org/wiki/Christopher_Tyerman Christopher Tyerman] || 英文PDF || 2015-12-15 || [https://docs.google.com/document/d/1mRuBNHPEdOobU4Uau2aijmNjDd5GqP75RKsSqApHuyE/ 简介]
+| 牛津通识读本：十字军 || The Crusades || (英) [https://et.wikipedia.org/wiki/Christopher_Tyerman 克里斯托弗·泰尔曼] || 英文PDF || 2015-12-15 || [https://docs.google.com/document/d/1mRuBNHPEdOobU4Uau2aijmNjDd5GqP75RKsSqApHuyE/ 简介]
 |}
 
 == 3.3 中国 ==
@@ -1558,9 +1558,9 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 中国历代政治得失 || N/A || [https://zh.wikipedia.org/wiki/%E9%8C%A2%E7%A9%86 钱穆] || 简体EPUB<br>简体MOBI<br>简体PDF(扫描版)<br>简体TXT || 2013-09-14<br>2018-12-08<br>2019-08-18<br>2013-08-22 || [https://docs.google.com/document/d/1VICCzIRbJr8kyEd9-db53_GOlpVmodVJfmqXe7vOjzA/ 简介]
 |-
-| 中国大历史 || China<br>——A Macro History || (中/美) [https://zh.wikipedia.org/wiki/%E9%BB%84%E4%BB%81%E5%AE%87 黄仁宇] || 简体PDF<br>简体PDF(大字版)<br>简体MOBI || 2013-02-05<br>2019-05-23<br>2019-05-23 || [https://docs.google.com/document/d/1Btw6HQ1bQBCtlM2-6mNgZY2WZcGtU1FoNT5k3EyGLDI/ 简介]
+| 中国大历史 || China<br>——A Macro History || (中/美) [https://zh.wikipedia.org/wiki/%E9%BB%84%E4%BB%81%E5%AE%87 黄仁宇] || 简体PDF<br>简体PDF(大字版)<br>简体MOBI<br>英文EPUB || 2013-02-05<br>2019-05-23<br>2019-05-23<br>2020-01-22 || [https://docs.google.com/document/d/1Btw6HQ1bQBCtlM2-6mNgZY2WZcGtU1FoNT5k3EyGLDI/ 简介]
 |-
-| 万历十五年 || 1587, A Year Of No Significance || (中/美) [https://zh.wikipedia.org/wiki/%E9%BB%84%E4%BB%81%E5%AE%87 黄仁宇] || 简体PDF<br>简体PDF(大字版)<br>简体TXT || 2014-01-08<br>2019-05-23<br>2016-05-17 || [https://docs.google.com/document/d/1QZqXBv7vh1LkB7DCJ5BgSFKAH9xW1uM4Hyqle2CugRI/ 简介]
+| 万历十五年 || 1587, a Year of No Significance<br>——The Ming Dynasty in Decline || (中/美) [https://zh.wikipedia.org/wiki/%E9%BB%84%E4%BB%81%E5%AE%87 黄仁宇] || 简体PDF<br>简体PDF(大字版)<br>简体TXT || 2014-01-08<br>2019-05-23<br>2016-05-17 || [https://docs.google.com/document/d/1QZqXBv7vh1LkB7DCJ5BgSFKAH9xW1uM4Hyqle2CugRI/ 简介]
 |-
 | 潜规则<br>——中国历史中的真实游戏 || N/A || [https://zh.wikipedia.org/wiki/%E5%90%B4%E6%80%9D 吴思] || 简体PDF<br>简体EPUB<br>简体CHM<br>简体MOBI<br>简体TXT || 2013-02-27<br>2013-09-13<br>2013-02-07<br>2014-02-23<br>2016-04-30 || [https://docs.google.com/document/d/10QfjrLS2z5UItGzDP-U1z1u2WtW5igYTZMRg8UWoTrc/ 简介]
 |-
@@ -1580,15 +1580,15 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 《炎黄春秋》合订本 (1999-2010) || N/A || 《炎黄春秋》杂志社 || 简体EPUB || 2013-09-11 || [https://docs.google.com/document/d/1Rq9vFydWgO3i8b4Ltkq5jh7WK6vzxt49NrOEI71Dujo/ 简介]
 |-
+| 中国近代史 || The Rise of Modern China || (中/美) [https://zh.wikipedia.org/wiki/%E5%BE%90%E4%B8%AD%E7%B4%84 徐中约] || 简体PDF(上下册)<br>简体EPUB || 2013-03-22<br>2013-09-13 || [https://docs.google.com/document/d/1RVggCvxZ51pB64nSJLAzQKLIYOrWIN6fWSa88UBsgcY/ 简介]
+|-
 | 中国近代史大纲 || Outline of Modern Chinese History || [https://zh.wikipedia.org/wiki/%E8%94%A3%E5%BB%B7%E9%BB%BB 蒋廷黻] || 简体PDF || 2014-01-09 || [https://docs.google.com/document/d/18N0nWRsGWaaO95IJ46-uuV7s3dglnixI_R95qX5rbw0/ 简介]
 |-
-| 中国近代史 || The Rise of Modern China || [https://zh.wikipedia.org/wiki/%E5%BE%90%E4%B8%AD%E7%B4%84 徐中约] || 简体PDF(上下)<br>简体EPUB || 2013-03-22<br>2013-09-13 || [https://docs.google.com/document/d/1RVggCvxZ51pB64nSJLAzQKLIYOrWIN6fWSa88UBsgcY/ 简介]
+| 停滞的帝国<br>——两个世界的撞击 || The Immobile Empire || (法) [https://en.wikipedia.org/wiki/Alain_Peyrefitte 阿兰·佩雷菲特] || 简体EPUB<br>简体MOBI<br>简体PDF(扫描版)<br>英文EPUB || 2019-07-17<br>2019-07-17<br>2014-05-23<br>2020-01-19 || [https://docs.google.com/document/d/1B4ikBRoHld3tIAW6DUCjd_vOEC8DE-GTUfRlECMgf38/ 简介]
 |-
-| 停滞的帝国<br>——两个世界的撞击 || The Immobile Empire || (法) [https://en.wikipedia.org/wiki/Alain_Peyrefitte 阿兰·佩雷菲特] || 简体EPUB<br>简体MOBI<br>简体PDF(扫描版) || 2019-07-17<br>2019-07-17<br>2014-05-23 || [https://docs.google.com/document/d/1B4ikBRoHld3tIAW6DUCjd_vOEC8DE-GTUfRlECMgf38/ 简介]
+| 追寻现代中国 || The Search for Modern China || (美) [https://zh.wikipedia.org/wiki/%E5%8F%B2%E6%99%AF%E8%BF%81 Jonathan Spence] (中文名：史景迁) || 繁體PDF<br>简体EPUB<br>简体PDF<br>英文PDF(扫描版) || 2014-06-22<br>2014-06-22<br>2016-12-18<br>2020-01-19 || [https://docs.google.com/document/d/1EqpGGp36MDShzS3O33M6MnCdC9rHuasajK0tpitqw2U/ 简介]
 |-
-| 追寻现代中国 || The Search for Modern China || (美) [https://zh.wikipedia.org/wiki/%E5%8F%B2%E6%99%AF%E8%BF%81 Jonathan Spence] (中文名：史景迁) || 繁體PDF<br>简体EPUB<br>简体PDF || 2014-06-22<br>2014-06-22<br>2016-12-18 || [https://docs.google.com/document/d/1EqpGGp36MDShzS3O33M6MnCdC9rHuasajK0tpitqw2U/ 简介]
-|-
-| 论中国<br>——中国新史 || China<br>——A New History || (美) [https://zh.wikipedia.org/wiki/%E8%B2%BB%E6%AD%A3%E6%B8%85 费正清] || 繁體PDF(竪排掃描版) || 2015-02-08 || [https://docs.google.com/document/d/1Ammd-CQdUzB0rgLYBHWfRsO2dCvV71cyJosYJZF2w94/ 简介]
+| 论中国<br>——中国新史 || China<br>——A New History || (美) [https://zh.wikipedia.org/wiki/%E8%B2%BB%E6%AD%A3%E6%B8%85 费正清]<br>(美) [https://en.wikipedia.org/wiki/Merle_Goldman 默尔·戈德曼] || 英文PDF(第2版)<br>繁體PDF(第1版 竪排掃描版) || 2020-01-19<br>2015-02-08 || [https://docs.google.com/document/d/1Ammd-CQdUzB0rgLYBHWfRsO2dCvV71cyJosYJZF2w94/ 简介]
 |-
 | 晚清七十年 || The Final Seventy Years of Qing Dynasty || (中/美) [https://zh.wikipedia.org/wiki/%E5%94%90%E5%BE%B7%E5%88%9A 唐德刚] || 简体PDF(大字版)<br>繁體EPUB<br>简体MOBI<br>繁體MOBI || 2019-08-23<br>2019-01-05<br>2018-08-08<br>2019-01-05 || [https://docs.google.com/document/d/1a-ZDC8JA-eYNDkg0QI1ekBQZmYp53eBHfGKZzYR_3pY/ 简介]
 |-
@@ -1596,19 +1596,19 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 走出帝制<br>——从晚清到民国历史的回望 || Moving Away from the Imperial Regime || [https://zh.wikipedia.org/wiki/%E7%A7%A6%E6%99%96 秦晖] || 简体EPUB<br>简体PDF(大字版)<br>简体TXT<br>简体MOBI || 2016-12-16<br>2016-07-14<br>2016-05-20<br>2018-11-21 || [https://docs.google.com/document/d/1VQ4X4aIbrYLKmrLFXTWtI2f_cKoS1sG2hXtGic51iOY/ 简介]
 |-
-| 五四新论<br>——既非文艺复兴，亦非启蒙运动 || N/A || (美) [https://zh.wikipedia.org/wiki/%E4%BD%99%E8%8B%B1%E6%99%82 余英时]<br>等 || 简体PDF(扫描版) || 2017-05-06 || [https://docs.google.com/document/d/1VvU2Kub7R73TbiX2hsX4LloOVQPcRCMBj39NkSpEDb4/ 简介]
+| 五四新论<br>——既非文艺复兴，亦非启蒙运动 || N/A || (中/美) [https://zh.wikipedia.org/wiki/%E4%BD%99%E8%8B%B1%E6%99%82 余英时]<br>等 || 简体PDF(扫描版) || 2017-05-06 || [https://docs.google.com/document/d/1VvU2Kub7R73TbiX2hsX4LloOVQPcRCMBj39NkSpEDb4/ 简介]
 |-
 | 袁氏当国 || N/A || (中/美) [https://zh.wikipedia.org/wiki/%E5%94%90%E5%BE%B7%E5%88%9A 唐德刚] || 简体PDF(扫描版)<br>简体MOBI<br>简体TXT || 2015-02-09<br>2015-02-09<br>2016-04-30 || [https://docs.google.com/document/d/1KhCM1Y2CeWQRrDkAsISwrWjDkktbv74_aHHaQ2cGTx4/ 简介]
 |-
 | 重说中国近代史 || N/A || [https://zh.wikipedia.org/wiki/%E5%BC%B5%E9%B3%B4_%28%E5%AD%B8%E8%80%85%29 张鸣] || 简体EPUB || 2013-09-14 || [https://docs.google.com/document/d/1rq77xhsLAm4hi94PP-D-pSF3YcwE6RIZEoKXM8tN7RE/ 简介]
 |-
-| 太平天国 || God's Chinese Son<br>——The Taiping Heavenly Kingdom of Hong Xiuquan || (美) [https://zh.wikipedia.org/wiki/%E5%8F%B2%E6%99%AF%E8%BF%81 Jonathan Spence] (中文名：史景迁) || 简体PDF(扫描版) || 2017-05-03 || [https://docs.google.com/document/d/126eHsUrcV0gT4i5lIKNbmxLCM5sd0xqQbZ1bHbIAJGM/ 简介]
+| 太平天国 || God's Chinese Son<br>——The Taiping Heavenly Kingdom of Hong Xiuquan || (美) [https://zh.wikipedia.org/wiki/%E5%8F%B2%E6%99%AF%E8%BF%81 Jonathan Spence] (中文名：史景迁) || 简体PDF(扫描版)<br>英文EPUB || 2017-05-03<br>2020-01-19 || [https://docs.google.com/document/d/126eHsUrcV0gT4i5lIKNbmxLCM5sd0xqQbZ1bHbIAJGM/ 简介]
 |-
 | 再说戊戌变法 || N/A || [https://zh.wikipedia.org/wiki/%E5%BC%B5%E9%B3%B4_%28%E5%AD%B8%E8%80%85%29 张鸣] || 简体MOBI || 2016-12-16 || [https://docs.google.com/document/d/1m31etZlGm9o78p1eRv14SIpxnJJGCarRGXOgpP3ui-w/ 简介]
 |-
 | 民国人物过眼录 || N/A || [https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%A5%8E%E6%9D%BE 杨奎松] || 简体PDF(扫描版) || 2014-02-21 || [https://docs.google.com/document/d/1s-2aJE0RfYroaP0_CcyDj9YiJFgdlJPPlE_WNNW8hmc/ 简介]
 |-
-| 叫魂<br>——1768年中国妖术大恐慌 || Soulstealers<br>——The Chinese Sorcery Scare of 1768 || (美) [https://zh.wikipedia.org/wiki/%E5%AD%94%E9%A3%9E%E5%8A%9B Philip Kuhn] (中文名：孔飞力) || 简体PDF(扫描版)<br>简体TXT || 2014-05-23<br>2016-05-15 || [https://docs.google.com/document/d/1pZGM6yuHVQkgKr6XDE50l2OTEuPhuEFMsFrTvk2535A/ 简介]
+| 叫魂<br>——1768年中国妖术大恐慌 || Soulstealers<br>——The Chinese Sorcery Scare of 1768 || (美) [https://zh.wikipedia.org/wiki/%E5%AD%94%E9%A3%9E%E5%8A%9B Philip Kuhn] (中文名：孔飞力) || 简体PDF(扫描版)<br>简体TXT<br>英文PDF(扫描版) || 2014-05-23<br>2016-05-15<br>2020-01-19 || [https://docs.google.com/document/d/1pZGM6yuHVQkgKr6XDE50l2OTEuPhuEFMsFrTvk2535A/ 简介]
 |-
 | 慈禧统治下的大清帝国<br>''其它中文名：''<br>慈禧外传 || China Under the Empress Dowager<br>——Being the History of the Life and Times of Tzŭ Hsi || (英) [https://zh.wikipedia.org/wiki/%E7%B4%84%E7%BF%B0%C2%B7%E5%A5%A7%E7%89%B9%E7%B6%AD%C2%B7%E5%9D%A1%E7%88%BE%E8%A5%BF%C2%B7%E5%B8%83%E8%98%AD%E5%BE%B7 约翰·濮兰德]<br>(英) [https://zh.wikipedia.org/wiki/%E5%9F%83%E5%BE%B7%E8%92%99%C2%B7%E5%B7%B4%E6%81%AA%E6%80%9D%E7%88%B5%E5%A3%AB%EF%BC%8C%E7%AC%AC%E4%BA%8C%E4%BB%A3%E5%BE%9E%E7%94%B7%E7%88%B5 埃德蒙德·贝克豪斯爵士] || 简体PDF(扫描版) || 2017-08-15 || [https://docs.google.com/document/d/1OgWwwgKWBdhWW18irp4sJsRNaWy_kCP3RCjEW-KIszo/ 简介]
 |-
@@ -1654,13 +1654,13 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 罗马帝国衰亡史 || The History of the Decline and Fall of the Roman Empire || (英) [https://zh.wikipedia.org/wiki/%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E5%90%89%E6%9C%AC 吉本] || 简体PDF(全6卷 扫描版)<br>简体EPUB<br>简体CHM<br>简体PDF(上下册 节译)<br>简体MOBI || 2013-11-26<br>2013-09-14<br>2013-02-07<br>2013-02-07<br>2015-02-13 || [https://docs.google.com/document/d/1rOKR225tuh_BhrYMnXDuuJL4Zk8D6tysElfplzSss1s/ 简介]
+| 罗马帝国衰亡史 || The History of the Decline and Fall of the Roman Empire || (英) [https://zh.wikipedia.org/wiki/%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E5%90%89%E6%9C%AC 爱德华·吉本] || 简体PDF(共6卷 全译本 扫描版)<br>简体EPUB(节译本)<br>简体MOBI(节译本)<br>简体PDF(上下册 节译本)<br>简体CHM(节译本)<br>英文PDF(6卷本 节选版) || 2013-11-26<br>2013-09-14<br>2015-02-13<br>2013-02-07<br>2013-02-07<br>2020-01-19 || [https://docs.google.com/document/d/1rOKR225tuh_BhrYMnXDuuJL4Zk8D6tysElfplzSss1s/ 简介]
 |-
 | 罗马人的故事 || N/A || (日) [https://zh.wikipedia.org/wiki/%E5%A1%A9%E9%87%8E%E4%B8%83%E7%94%9F 盐野七生] || 繁體PDF(掃描版) || 2017-05-03 || [https://docs.google.com/document/d/1KDT4gLTGqS5atZNJHetaSXMPotA1SqsDNYWOvIovWqQ/ 简介]
 |-
-| 牛津通识读本：罗马帝国 || The Roman Empire || (英) [https://en.wikipedia.org/wiki/Christopher_Kelly_(historian) Christopher Kelly] || 英文PDF || 2015-12-15 || [https://docs.google.com/document/d/1oh1b-3NP6SvS8bNHi79T62ui3XeU2KpqkceS-lIPv7w/ 简介]
+| 牛津通识读本：罗马帝国 || The Roman Empire || (英) [https://en.wikipedia.org/wiki/Christopher_Kelly_(historian) 克里斯托弗·凯利] || 英文PDF || 2015-12-15 || [https://docs.google.com/document/d/1oh1b-3NP6SvS8bNHi79T62ui3XeU2KpqkceS-lIPv7w/ 简介]
 |-
-| 罗马盛衰原因论 || Considerations on the Causes of the Grandeur and Decadence of the Romans || (法) [https://zh.wikipedia.org/wiki/%E5%AD%9F%E5%BE%B7%E6%96%AF%E9%B8%A0 孟德斯鸠] || 简体PDF<br>简体PDF(扫描版) || 2013-02-07<br>2015-07-11 || [https://docs.google.com/document/d/1peIz2KK_A_stVTU2Un7mNpPbfg9aI3hDKBV06uypBjI/ 简介]
+| 罗马盛衰原因论 || Considerations on the Causes of the Greatness of the Romans and their Decline || (法) [https://zh.wikipedia.org/wiki/%E5%AD%9F%E5%BE%B7%E6%96%AF%E9%B8%A0 孟德斯鸠] || 简体PDF<br>简体PDF(扫描版)<br>英文PDF(扫描版) || 2013-02-07<br>2015-07-11<br>2020-01-19 || [https://docs.google.com/document/d/1peIz2KK_A_stVTU2Un7mNpPbfg9aI3hDKBV06uypBjI/ 简介]
 |-
 | 罗马风云 || N/A || (德) [https://zh.wikipedia.org/wiki/%E7%89%B9%E5%A5%A5%E5%A4%9A%E5%B0%94%C2%B7%E8%92%99%E6%A3%AE 特奥多尔·蒙森] || 简体PDF(扫描版) || 2017-05-03 || [https://docs.google.com/document/d/1P3ScIP46OzD1srlj7XeCsiG30vQHHeb9Y50ztjtsqRo/ 简介]
 |-
@@ -1674,11 +1674,11 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 美国通史<br><br>''包括如下：''<br>第1卷 美国的奠基时代（1585~1775）<br>第2卷 美国的独立和初步繁荣（1775~1860）<br>第3卷 美国内战与镀金时代（1861~19世纪末）<br>第4卷 崛起和扩张的年代（1898~1929）<br>第5卷 罗斯福时代（1929~1945）<br>第6卷 战后美国史（1945~2000） || A General History of the U.S. 1585-2000 || 刘绪贻、杨生茂 等 || 简体PDF(扫描版) || 2017-02-20 || [https://docs.google.com/document/d/1MLNvLc4bNp1a762hW4tsVL7QRAtRYDroZhdsL7pS0dY/ 简介]
 |-
-| 光荣与梦想<br>——1932-1972年美国社会实录 || The Glory and the Dream<br>——A Narrative History of America, 1932-1972 || (美) [https://en.wikipedia.org/wiki/William_Manchester 威廉·曼彻斯特] || 简体PDF(大字版)<br>简体PDF<br>简体TXT || 2016-12-16<br>2017-02-17<br>2016-05-01 || [https://docs.google.com/document/d/17OMCMA8CNnwboW49BNDi0-TD5why7_SJx18JlGkUWl0/ 简介]
+| 光荣与梦想<br>——1932~1972年美国社会实录 || The Glory and the Dream<br>——A Narrative History of America, 1932~1972 || (美) [https://en.wikipedia.org/wiki/William_Manchester 威廉·曼彻斯特] || 简体PDF(大字版)<br>简体PDF<br>简体TXT<br>英文EPUB || 2016-12-16<br>2017-02-17<br>2016-05-01<br>2020-01-18 || [https://docs.google.com/document/d/17OMCMA8CNnwboW49BNDi0-TD5why7_SJx18JlGkUWl0/ 简介]
 |-
 | 美国黑人斗争史<br>——1619年至今的历史、文献与分析 || Black Protest<br>——History, Documents, And Analysis 1619 To The Present || (美) [https://en.wikipedia.org/wiki/Joanne_Grant 乔安妮·格兰特] || 简体PDF(扫描版) || 2017-02-18 || [https://docs.google.com/document/d/1UCJRlWpQ-VTq9h0NEFOCuA8WY9oIoZzplZ1xFoVHgZc/ 简介]
 |-
-| 牛津通识读本：大萧条与新经济政策 || The Great Depression and New Deal || (美) [https://en.wikipedia.org/wiki/Eric_Rauchway Eric Rauchway] || 英文PDF || 2015-12-15 || [https://docs.google.com/document/d/1hru2tjET-53dWFNdaf0tvxR3sdWr09PsVI8Uvqur_S4/ 简介]
+| 牛津通识读本：大萧条与新经济政策 || The Great Depression and New Deal || (美) [https://en.wikipedia.org/wiki/Eric_Rauchway 埃里克·罗威] || 英文PDF || 2015-12-15 || [https://docs.google.com/document/d/1hru2tjET-53dWFNdaf0tvxR3sdWr09PsVI8Uvqur_S4/ 简介]
 |}
 
 == 3.7 英国 ==
@@ -1714,7 +1714,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 |-
 | 纳粹德国<br>——一部新的历史 || Nazi Germany<br>——A New History || (德) 克劳斯·费舍尔 || 简体PDF(扫描版) || 2017-08-17 || [https://docs.google.com/document/d/1XeSMLHauWpiIqjW9Dz1mJCHzWvhwJl-y9LB4agkI86U/ 简介]
 |-
-| 希特勒的民族帝国<br>——劫掠、种族战争和纳粹主义 || Hitler's Beneficiaries<br>——Plunder, Racial War, and the Nazi Welfare State || (德) [https://en.wikipedia.org/wiki/G%C3%B6tz_Aly 格茨·阿利] || 简体PDF(扫描版) || 2013-08-21 || [https://docs.google.com/document/d/1FAPteLhYwkcQHDT_l45rT5QPNhTHETLsogqDLpj9r8I/ 简介]
+| 希特勒的民族帝国<br>——劫掠、种族战争和纳粹主义 || Hitler's Beneficiaries<br>——Plunder, Racial War and the Nazi Welfare State || (德) [https://en.wikipedia.org/wiki/G%C3%B6tz_Aly 格茨·阿利] || 简体PDF(扫描版)<br>英文EPUB || 2013-08-21<br>2020-01-18 || [https://docs.google.com/document/d/1FAPteLhYwkcQHDT_l45rT5QPNhTHETLsogqDLpj9r8I/ 简介]
 |-
 | 希特勒的土地<br>——美国人亲历的纳粹疯狂之路 || Hitlerland<br>——American Eyewitnesses to the Nazi Rise to Power || (美) [https://en.wikipedia.org/wiki/Andrew_Nagorski 安德鲁·纳戈尔斯基] || 英文EPUB<br>英文MOBI || 2015-02-09<br>2015-02-09 || [https://docs.google.com/document/d/1FH1c44Tht3cgoMrp-CtGbH6Xi9rPxSWZYXN5D9H6tH4/ 简介]
 |}
@@ -1724,7 +1724,7 @@ BT Sync 密钥：BSH7FXJFVWJTKWGSX5GTWX7PHZZ2D2M7Q （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 拥抱战败<br>——第二次世界大战后的日本 || Embracing Defeat<br>——Japan in the Wake of World War II || (美) [https://en.wikipedia.org/wiki/John_W._Dower 约翰·道尔] || 简体PDF(扫描版) || 2017-08-14 || [https://docs.google.com/document/d/1XQzW-hur8gIaC-f0AB5fN4h7EJxL8pF5AXWdx9hE4Mo/ 简介]
+| 拥抱战败<br>——第二次世界大战后的日本 || Embracing Defeat<br>——Japan in the Wake of World War II || (美) [https://en.wikipedia.org/wiki/John_W._Dower 约翰·道尔] || 简体PDF(扫描版)<br>英文EPUB || 2017-08-14<br>2020-01-18 || [https://docs.google.com/document/d/1XQzW-hur8gIaC-f0AB5fN4h7EJxL8pF5AXWdx9hE4Mo/ 简介]
 |}
 
 ----
@@ -2293,11 +2293,11 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 |-
 | 孙子兵法<br>''其它中文名：''<br>孙武兵法 || The Art of War || [https://zh.wikipedia.org/wiki/%E5%AD%AB%E6%AD%A6 孙武] || 简体PDF<br>繁體PDF(白話版)<br>[https://zh.wikisource.org/zh-hans/%E5%AD%AB%E5%AD%90%E5%85%B5%E6%B3%95 简体WEB] || 2018-08-20<br>2018-08-20<br>N/A || [https://docs.google.com/document/d/18a-HeGz5YBiF1NIk1HJcByhaxB4O7IWe9Do0eJa7kuw/ 简介]
 |-
-| 战争论 || On War || (普鲁士) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E5%85%8B%E5%8A%B3%E5%A1%9E%E7%BB%B4%E8%8C%A8 卡尔·冯·克劳塞维茨] || 简体PDF(共3卷)<br>简体PDF(大字版 共3卷)<br>简体PDF(扫描版 共3卷) || 2013-03-22<br>2019-04-14<br>2017-08-12 || [https://docs.google.com/document/d/1skqTkVfSr45pB3tWY9xk6MZc4b-xCxcxzAocvW7L9k4/ 简介]
+| 战争论 || On War || (普鲁士) [https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E5%86%AF%C2%B7%E5%85%8B%E5%8A%B3%E5%A1%9E%E7%BB%B4%E8%8C%A8 卡尔·冯·克劳塞维茨] || 简体PDF(共3卷)<br>简体PDF(大字版 3卷本)<br>简体PDF(扫描版 3卷本) || 2013-03-22<br>2019-04-14<br>2017-08-12 || [https://docs.google.com/document/d/1skqTkVfSr45pB3tWY9xk6MZc4b-xCxcxzAocvW7L9k4/ 简介]
 |-
-| 战略论<br>——间接路线 || Strategy<br>——The Indirect Approach || (英) [https://en.wikipedia.org/wiki/B._H._Liddell_Hart 李德·哈特] || 简体PDF(第2版修订版 扫描版)<br>英文PDF(第2版修订版 扫描版) || 2013-02-05<br>2019-11-12 || [https://docs.google.com/document/d/1i_rSCi-zhlSUT0r4NRV7nq_nPxVFbE6ZG6oplk46lFs/ 简介]
+| 战略论<br>——间接路线 || Strategy<br>——The Indirect Approach<br>''其它英文名：''<br>The Strategy of Indirect Approach<br>The Way to Win Wars || (英) [https://en.wikipedia.org/wiki/B._H._Liddell_Hart 李德·哈特] || 简体PDF(第2版修订版 扫描版)<br>英文PDF(第2版修订版 扫描版) || 2013-02-05<br>2019-11-12 || [https://docs.google.com/document/d/1i_rSCi-zhlSUT0r4NRV7nq_nPxVFbE6ZG6oplk46lFs/ 简介]
 |-
-| 海权论<br>''其它中文名：''<br>制海权对历史的影响 || The Influence of Sea Power upon History || (美) [https://zh.wikipedia.org/wiki/%E9%98%BF%E7%88%BE%E5%BC%97%E9%9B%B7%E5%BE%B7%C2%B7%E8%B3%BD%E8%80%B6%C2%B7%E9%A6%AC%E6%BC%A2 阿尔弗雷德·马汉] || 简体PDF<br>简体PDF(扫描版) || 2013-03-22<br>2017-08-11 || [https://docs.google.com/document/d/1yD7mX2cGe-Fr7xbGTfub4nqCVJLXuD6cgL0IcEl9QgY/ 简介]
+| 海权论<br>''其它中文名：''<br>制海权对历史的影响 || The Influence of Sea Power upon History, 1660~1783 || (美) [https://zh.wikipedia.org/wiki/%E9%98%BF%E7%88%BE%E5%BC%97%E9%9B%B7%E5%BE%B7%C2%B7%E8%B3%BD%E8%80%B6%C2%B7%E9%A6%AC%E6%BC%A2 阿尔弗雷德·马汉] || 简体PDF<br>简体PDF(扫描版)<br>英文PDF(扫描版) || 2013-03-22<br>2017-08-11<br>2020-01-21 || [https://docs.google.com/document/d/1yD7mX2cGe-Fr7xbGTfub4nqCVJLXuD6cgL0IcEl9QgY/ 简介]
 |-
 | 制空权 || The Command of the Air || (意) [https://zh.wikipedia.org/wiki/%E6%9C%B1%E5%88%A9%E6%AD%90%C2%B7%E6%9D%9C%E9%BB%91 朱利欧·杜黑] || 简体PDF(前9章)<br>英文PDF(扫描版) || 2013-08-21<br>2018-08-25 || [https://docs.google.com/document/d/16rd8s56UJFe3PQAY6Ro-IQ4ifsrHuWgoeruDORAm__M/ 简介]
 |-
@@ -2317,17 +2317,17 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 |-
 | 第二次世界大战战史大全 || N/A || (英) [https://en.wikipedia.org/wiki/Arnold_J._Toynbee 阿诺德·汤因比] || 简体EPUB<br>简体CHM || 2013-09-13<br>2013-02-05 || [https://docs.google.com/document/d/1g4lK9FonqePgkJMYBlfOTNnVN_cFVvIJKfRjfvquS_E/ 简介]
 |-
-| 第二次世界大战战史 || History of the Second World War || (英) [https://zh.wikipedia.org/wiki/B%C2%B7H%C2%B7%E6%9D%8E%E5%BE%B7%C2%B7%E5%93%88%E7%89%B9 李德·哈特] || 简体PDF(扫描版) || 2015-09-17 || [https://docs.google.com/document/d/1vP_KXL_iHnOeUnhw2cLoHPAa9dWwr9TvY7gtQiIaF1M/ 简介]
+| 第二次世界大战战史 || History of the Second World War || (英) [https://zh.wikipedia.org/wiki/B%C2%B7H%C2%B7%E6%9D%8E%E5%BE%B7%C2%B7%E5%93%88%E7%89%B9 李德·哈特] || 简体PDF(扫描版)<br>英文PDF(扫描版) || 2015-09-17<br>2020-01-21 || [https://docs.google.com/document/d/1vP_KXL_iHnOeUnhw2cLoHPAa9dWwr9TvY7gtQiIaF1M/ 简介]
 |-
 | 第二次世界大战回忆录 || The Second World War || (英) [https://zh.wikipedia.org/wiki/%E6%B8%A9%E6%96%AF%E9%A1%BF%C2%B7%E4%B8%98%E5%90%89%E5%B0%94 温斯顿·丘吉尔] || 简体PDF(大字版)<br>简体EPUB<br>简体HTML<br>简体MOBI || 2015-07-18<br>2013-09-14<br>2013-03-22<br>2018-08-20 || [https://docs.google.com/document/d/12N9nwvnW6McL4rn5hrwBoIz8CsSFynXxP8I4V71fOJE/ 简介]
 |-
-| 第二次世界大战史 || N/A || (德) [https://en.wikipedia.org/wiki/Kurt_von_Tippelskirch 库尔特·冯·蒂佩尔斯基希] || 简体PDF(上下册 扫描版) || 2018-11-11 || [https://docs.google.com/document/d/1LLFyYZqoIkWx3eNMF2F2mSbxk-l2NU5MXqmBYH51W1c/ 简介]
+| 第二次世界大战史 || N/A || (德) [https://en.wikipedia.org/wiki/Kurt_von_Tippelskirch 库尔特·冯·蒂佩尔斯基希] || 简体PDF(2册本 扫描版) || 2018-11-11 || [https://docs.google.com/document/d/1LLFyYZqoIkWx3eNMF2F2mSbxk-l2NU5MXqmBYH51W1c/ 简介]
 |-
 | 大海战<br>——第二次世界大战海战史<br>''其它中文名：''<br>伟大的海战 || The Great Sea War<br>——The Story of Naval Action in World War II || (美) [https://zh.wikipedia.org/wiki/%E5%88%87%E6%96%AF%E7%89%B9%C2%B7%E5%A8%81%E5%BB%89%C2%B7%E5%B0%BC%E7%B1%B3%E5%85%B9 切斯特·尼米兹]<br>(美) [https://en.wikipedia.org/wiki/E._B._Potter 埃尔默·波特] || 简体PDF(大字版)<br>简体PDF(扫描版) || 2019-08-24<br>2016-12-11 || [https://docs.google.com/document/d/1cOFhem10jWTPUagIb9Q1PzDczwvsgMz4JsqhbqN-LHk/ 简介]
 |-
 | 第二次世界大战的决定性战役 || Decisive Battles of World War II<br>——The German View || (美) 汉斯·雅各布森 || 简体CHM || 2013-08-22 || [https://docs.google.com/document/d/1kB3hdYUAg8AxPiLn4YU7aXG1GHFTpOYHvkcatq13f9g/ 简介]
 |-
-| 大东亚战争全史 || The Complete History of the Great East Asia War || (日) [https://zh.wikipedia.org/wiki/%E6%9C%8D%E9%83%A8%E5%8D%93%E5%9B%9B%E9%83%8E 服部卓四郎] || 简体PDF(扫描版) || 2015-09-17 || [https://docs.google.com/document/d/1lC96xJD9p7aHKnFCuNf0sDMSRrMfmvRAhkndkOb1Y3I/ 简介]
+| 大东亚战争全史 || The Complete History of the Great East Asia War || (日) [https://zh.wikipedia.org/wiki/%E6%9C%8D%E9%83%A8%E5%8D%93%E5%9B%9B%E9%83%8E 服部卓四郎] || 简体PDF(共4册 扫描版) || 2015-09-17 || [https://docs.google.com/document/d/1lC96xJD9p7aHKnFCuNf0sDMSRrMfmvRAhkndkOb1Y3I/ 简介]
 |-
 | 山的那一边<br>——被俘德国将领谈二战 || The Other Side of the Hill || (英) [https://zh.wikipedia.org/wiki/B%C2%B7H%C2%B7%E6%9D%8E%E5%BE%B7%C2%B7%E5%93%88%E7%89%B9 李德·哈特] || 简体PDF(扫描版) || 2017-08-11 || [https://docs.google.com/document/d/1N8NCjRYRzCf-RrfmeqolZrGLu7wBskyagro8dUfciZk/ 简介]
 |}
@@ -2347,9 +2347,9 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 |-
 | 远征欧陆<br>''其它中文名：''<br>艾森豪威尔回忆录 || Crusade in Europe || (美) [https://zh.wikipedia.org/wiki/%E5%BE%B7%E6%80%80%E7%89%B9%C2%B7%E8%89%BE%E6%A3%AE%E8%B1%AA%E5%A8%81%E5%B0%94 德怀特·艾森豪威尔] || 简体PDF(扫描版) || 2018-08-21 || [https://docs.google.com/document/d/19RiaeWr5rUGvhCLd7A99tAr2F7MXAnwdHQVThXnIiIY/ 简介]
 |-
-| 隆美尔战时文件 || The Rommel Papers || (英) [https://zh.wikipedia.org/wiki/B%C2%B7H%C2%B7%E6%9D%8E%E5%BE%B7%C2%B7%E5%93%88%E7%89%B9 李德·哈特] (主编) || 简体TXT || 2019-06-02 || [https://docs.google.com/document/d/18XrbOCxF2KdC6OGqQQHjvD-4VZQqdmW9ZTo0mK3L630/ 简介]
+| 隆美尔战时文件 || The Rommel Papers || (英) [https://zh.wikipedia.org/wiki/B%C2%B7H%C2%B7%E6%9D%8E%E5%BE%B7%C2%B7%E5%93%88%E7%89%B9 李德·哈特] (主编) || 简体TXT<br>英文PDF(扫描版) || 2019-06-02<br>2019-11-23 || [https://docs.google.com/document/d/18XrbOCxF2KdC6OGqQQHjvD-4VZQqdmW9ZTo0mK3L630/ 简介]
 |-
-| 巴黎烧了吗？<br>——盟军解放巴黎纪实 || Is Paris Burning? || (美) [https://en.wikipedia.org/wiki/Larry_Collins_%28writer%29 拉莱·科林斯]<br>(法) [https://en.wikipedia.org/wiki/Dominique_Lapierre 多米尼克·拉皮埃尔] || 简体PDF(扫描版) || 2016-12-11 || [https://docs.google.com/document/d/1Jw5EnT335QI563xQgV5ojDHsmZHQEOCSqV8WlRo0Xuo/ 简介]
+| 巴黎烧了吗？<br>——盟军解放巴黎纪实 || Is Paris Burning? || (美) [https://en.wikipedia.org/wiki/Larry_Collins_%28writer%29 拉莱·科林斯]<br>(法) [https://en.wikipedia.org/wiki/Dominique_Lapierre 多米尼克·拉皮埃尔] || 简体PDF(扫描版)<br>英文EPUB || 2016-12-11<br>2020-01-21 || [https://docs.google.com/document/d/1Jw5EnT335QI563xQgV5ojDHsmZHQEOCSqV8WlRo0Xuo/ 简介]
 |}
 
 ==== 9.2.1.4 太平洋战场 ====
@@ -2421,7 +2421,7 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 基辛格越战回忆录 || Ending the Vietnam War<br>——A History of America's Involvement in and Extrication from the Vietnam War || (美) [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E5%9F%BA%E8%BE%9B%E6%A0%BC 基辛格] || 简体EPUB || 2015-01-11 || [https://docs.google.com/document/d/1AQrzB0vEsJnvKs6sDLpfLtdzujUoqM9LGcdUG55RaHE/ 简介]
+| 基辛格越战回忆录 || Ending the Vietnam War<br>——A History of America's Involvement in and Extrication from the Vietnam War || (美) [https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%C2%B7%E5%9F%BA%E8%BE%9B%E6%A0%BC 亨利·基辛格] || 简体EPUB || 2015-01-11 || [https://docs.google.com/document/d/1AQrzB0vEsJnvKs6sDLpfLtdzujUoqM9LGcdUG55RaHE/ 简介]
 |-
 | 回顾<br>——越战的悲剧与教训 || In Retrospect<br>——The Tragedy and Lessons of Vietnam || (美) [https://zh.wikipedia.org/wiki/%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E9%BA%A6%E5%85%8B%E7%BA%B3%E9%A9%AC%E6%8B%89 罗伯特·麦克纳马拉] || 简体PDF<br>简体HTML || 2017-08-12<br>2018-08-20 || [https://docs.google.com/document/d/1S-WWRslS0-b8swiRCLUhOmj5Kq03Dt_nvDxcR23Y3zY/ 简介]
 |-
@@ -2433,21 +2433,21 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 冷战，1945~1991 || The Cold War, 1945~1991 || (英) 约翰·梅森 || 简体PDF(大字版) || 2018-11-11 || [https://docs.google.com/document/d/19027mFVegw_FMxKbXbwUoiilaKmFZRW9rgi-8SlD9b8/ 简介]
+| 冷战，1945~1991 || The Cold War, 1945~1991 || (英) 约翰·梅森 || 简体PDF(大字版)<br>英文PDF || 2018-11-11<br>2020-01-21 || [https://docs.google.com/document/d/19027mFVegw_FMxKbXbwUoiilaKmFZRW9rgi-8SlD9b8/ 简介]
 |-
 | 苏联行为的根源 || The Sources of Soviet Conduct || (美) [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%87%AF%E5%8D%97 乔治·凯南] || 简体TXT<br>英文TXT || 2018-08-14<br>2019-05-28 || [https://docs.google.com/document/d/1VvdoZPblgG8vKcFMclQdCm2XkUWjbdxYCu4xRTJM7w8/ 简介]
 |-
-| 凯南长电 || Long Telegram || (美) [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%87%AF%E5%8D%97 乔治·凯南] || 简体TXT || 2018-08-14 || [https://docs.google.com/document/d/1B1QX8RTPVtywba1VFhHD-ohZzSpo3CwrKr0LgZpXZgg/ 简介]
+| 凯南长电 || Long Telegram || (美) [https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%87%AF%E5%8D%97 乔治·凯南] || 简体TXT<br>英文TXT || 2018-08-14<br>2019-11-23 || [https://docs.google.com/document/d/1B1QX8RTPVtywba1VFhHD-ohZzSpo3CwrKr0LgZpXZgg/ 简介]
 |-
 | 冷战史<br>——遏制与共存备忘录 || A Journey Through the Cold War<br>——A Memoir of Containment and Coexistence || (美) [https://en.wikipedia.org/wiki/Raymond_L._Garthoff 雷蒙德·加特霍夫] || 简体PDF || 2017-02-19 || [https://docs.google.com/document/d/1TOSbCWQMok47aeKFopcdDb6tEkx3rRTcYhYMZKPizrs/ 简介]
 |-
-| 人心之争<br>——美国、苏联与冷战 || For the Soul of Mankind<br>——The United States, the Soviet Union, and the Cold War || (美) [https://en.wikipedia.org/wiki/Melvyn_P._Leffler 梅尔文·莱弗勒] || 简体PDF(扫描版) || 2017-02-19 || [https://docs.google.com/document/d/18LcyFGXA7OenPCAJw_zw_jcCm62zmprZ7su-VccgwrY/ 简介]
+| 人心之争<br>——美国、苏联与冷战 || For the Soul of Mankind<br>——The United States, the Soviet Union and the Cold War || (美) [https://en.wikipedia.org/wiki/Melvyn_P._Leffler 梅尔文·莱弗勒] || 简体PDF(扫描版)<br>英文EPUB || 2017-02-19<br>2020-01-21 || [https://docs.google.com/document/d/18LcyFGXA7OenPCAJw_zw_jcCm62zmprZ7su-VccgwrY/ 简介]
 |-
 | 美国遏制战略与冷战起源再探 || U.S. Strategy of Containment and the Origins of the Cold War<br>——A Revist || 张曙光 || 简体PDF(扫描版) || 2018-08-14 || [https://docs.google.com/document/d/1uXaDEuk6dKxNhP8_1buYvPN0wlKtsTjgH6TPHv5krkw/ 简介]
 |-
 | 冰与火之歌<br>——回首冷战军事对抗史 || N/A || 《现代兵器》杂志社 || 简体PDF(扫描版) || 2015-02-17 || [https://docs.google.com/document/d/10_76aX4h4KUwN03fNZG4Sao2gSEWfOykCTmgxUnkRas/ 简介]
 |-
-| 牛津通识读本：冷战 || The Cold War || (美) [https://en.wikipedia.org/wiki/Robert_J._McMahon_(historian) Robert McMahon] || 英文PDF || 2015-12-14 || [https://docs.google.com/document/d/1KGXlFZvTW5t5C6ZhdeZrK_BounaqOzpoomSN-KsPFyM/ 简介]
+| 牛津通识读本：冷战 || The Cold War || (美) [https://en.wikipedia.org/wiki/Robert_J._McMahon_(historian) 罗伯特·麦克马洪] || 英文PDF || 2015-12-14 || [https://docs.google.com/document/d/1KGXlFZvTW5t5C6ZhdeZrK_BounaqOzpoomSN-KsPFyM/ 简介]
 |}
 
 === 9.2.5 一战 ===
@@ -2455,13 +2455,13 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 第一次世界大战回忆录 || The World Crisis || (英) [https://zh.wikipedia.org/wiki/%E6%B8%A9%E6%96%AF%E9%A1%BF%C2%B7%E4%B8%98%E5%90%89%E5%B0%94 温斯顿·丘吉尔] || 简体TXT || 2016-05-19 || [https://docs.google.com/document/d/1yQqh1Fb2ibeXd76MRyVb-8n-N-gIGZ6QuJZr6lDUhUo/ 简介]
+| 第一次世界大战回忆录 || The World Crisis || (英) [https://zh.wikipedia.org/wiki/%E6%B8%A9%E6%96%AF%E9%A1%BF%C2%B7%E4%B8%98%E5%90%89%E5%B0%94 温斯顿·丘吉尔] || 简体TXT<br>英文MOBI(共5卷) || 2016-05-19<br>2020-01-21 || [https://docs.google.com/document/d/1yQqh1Fb2ibeXd76MRyVb-8n-N-gIGZ6QuJZr6lDUhUo/ 简介]
 |-
 | 欧洲的悲剧<br>——第一次世界大战战史 || N/A || (未知) || 繁體PDF(掃描版) || 2017-08-16 || [https://docs.google.com/document/d/17CYops_TzhiHJjrYVgI9gg8ezhGfp_lG2_grCbm613s/ 简介]
 |-
 | 乱七八糟的第一次世界大战 || The Frightful First World War || (英) [https://en.wikipedia.org/wiki/Terry_Deary 泰瑞·狄利] || 简体PDF(扫描版) || 2018-08-20 || [https://docs.google.com/document/d/1QadSr3xDJ8b0HDFBAEWtHGvYx4jhZruBCOR9OhTZqZI/ 简介]
 |-
-| 牛津通识读本：第一次世界大战 || The First World War || (英) [https://en.wikipedia.org/wiki/Michael_Howard_(historian) Michael Howard] || 英文PDF || 2015-12-15 || [https://docs.google.com/document/d/1R73zTNIBp1yuPqwGdHKdOws-aNvQcJFCk5lHEWSmHBw/ 简介]
+| 牛津通识读本：第一次世界大战 || The First World War || (英) [https://en.wikipedia.org/wiki/Michael_Howard_(historian) 迈克尔·霍华德] || 英文PDF || 2015-12-15 || [https://docs.google.com/document/d/1R73zTNIBp1yuPqwGdHKdOws-aNvQcJFCk5lHEWSmHBw/ 简介]
 |}
 
 == 9.3 近代军事史 ==
@@ -2503,9 +2503,9 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 伯罗奔尼撒战争史 || History of the Peloponnesian War || (古希腊) [https://zh.wikipedia.org/wiki/%E4%BF%AE%E6%98%94%E5%BA%95%E5%BE%B7 修昔底德] || 简体PDF(上下册 扫描版)<br>简体EPUB<br>简体TXT<br>英文PDF(精装版) || 2014-07-27<br>2015-02-13<br>2016-05-01<br>2018-08-08 || [https://docs.google.com/document/d/1U0VOIk64b-mKriKcAUiNBZSOOo0Y4q_RMV187Prgt4Q/ 简介]
+| 伯罗奔尼撒战争史 || History of the Peloponnesian War || (古希腊) [https://zh.wikipedia.org/wiki/%E4%BF%AE%E6%98%94%E5%BA%95%E5%BE%B7 修昔底德] || 简体PDF(2册本 扫描版)<br>简体EPUB<br>简体TXT<br>英文PDF(精装版)<br>英文PDF(共3卷 扫描版) || 2014-07-27<br>2015-02-13<br>2016-05-01<br>2018-08-08<br>2020-01-21 || [https://docs.google.com/document/d/1U0VOIk64b-mKriKcAUiNBZSOOo0Y4q_RMV187Prgt4Q/ 简介]
 |-
-| 历史<br>''其它中文名：''<br>希波战争史 || Histories || (古希腊) [https://zh.wikipedia.org/wiki/%E5%B8%8C%E7%BE%85%E5%A4%9A%E5%BE%B7 希罗多德] || 简体PDF(扫描版) || 2017-08-11 || [https://docs.google.com/document/d/1Ru1gXzS-hiiKX1WHOF5f7IPsG09_YWIuwMHKEBlNKLA/ 简介]
+| 历史<br>''其它中文名：''<br>希波战争史 || The Histories || (古希腊) [https://zh.wikipedia.org/wiki/%E5%B8%8C%E7%BE%85%E5%A4%9A%E5%BE%B7 希罗多德] || 简体PDF(扫描版)<br>英文EPUB || 2017-08-11<br>2020-01-21 || [https://docs.google.com/document/d/1Ru1gXzS-hiiKX1WHOF5f7IPsG09_YWIuwMHKEBlNKLA/ 简介]
 |-
 | 亚历山大远征记 || Anabasis Alexandri || (古罗马) [https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E5%AE%89 阿利安] || 简体PDF<br>简体PDF(扫描版)<br>英文EPUB || 2013-02-07<br>2015-07-18<br>2018-08-08 || [https://docs.google.com/document/d/17nELJ7-eABOYeTtd35lLUJSlHwK5-z89SIIcqW6w2qs/ 简介]
 |}
@@ -2528,6 +2528,8 @@ BT Sync 密钥：BMWWZALG4P56LREF47EE2WSWHZEM4E6BL （此密钥的使用方法�
 
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
+|-
+| 西洋世界军事史<br>''其它中文名：''<br>西方历史上的决定性会战及其影响 || A Military History of the Western World<br>''其它英文名：''<br>The Decisive Battles of the Western World and Their Influence upon History || (英) [https://en.wikipedia.org/wiki/J._F._C._Fuller 约翰·富勒] || 简体EPUB(共3卷) || 2019-11-24 || [https://docs.google.com/document/d/1QnithTo014Xl2KiJ7UswCckDxULey0O5P9MmeZ2nwI8/ 简介]
 |-
 | 影响人类历史进程的100场决定性战役 || 100 Decisive Battles<br>——From Ancient Times to the Present || (美) [https://en.wikipedia.org/wiki/Paul_K._Davis_%28historian%29 保罗·戴维斯] || 简体PDF(扫描版) || 2018-08-20 || [https://docs.google.com/document/d/1miVoMp3DsBNFyhAt1pZgLtPcaPKv_-S252aVa4o0x0A/ 简介]
 |}
